@@ -1,0 +1,7037 @@
+[
+  {
+    "acceleration": 10.76,
+    "rotation": 7.34,
+    "magnetic_field": 300.68,
+    "light": 379.35,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.97,
+    "rotation": 9.49,
+    "magnetic_field": 286.79,
+    "light": 238.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 59.73,
+    "rotation": 7.77,
+    "magnetic_field": 290.33,
+    "light": 216.66,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 92.95,
+    "rotation": 16.33,
+    "magnetic_field": 581.07,
+    "light": 400.57,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 27.47,
+    "rotation": 4.29,
+    "magnetic_field": 265.24,
+    "light": 41.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 146.73,
+    "rotation": 13.86,
+    "magnetic_field": 575.87,
+    "light": 545.09,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 3.59,
+    "rotation": 4.55,
+    "magnetic_field": 209.3,
+    "light": 365.3,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.48,
+    "rotation": 9.5,
+    "magnetic_field": 33.95,
+    "light": 254.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 35.54,
+    "rotation": 7.09,
+    "magnetic_field": 248.9,
+    "light": 207.3,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 97.82,
+    "rotation": 14.08,
+    "magnetic_field": 450.27,
+    "light": 408.74,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 52.85,
+    "rotation": 8.25,
+    "magnetic_field": 135.73,
+    "light": 289.65,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.66,
+    "rotation": 4.19,
+    "magnetic_field": 236.33,
+    "light": 117.82,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.61,
+    "rotation": 8.3,
+    "magnetic_field": 234.96,
+    "light": 126.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 48.76,
+    "rotation": 9.92,
+    "magnetic_field": 241.55,
+    "light": 168.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 0.15,
+    "rotation": 6.55,
+    "magnetic_field": 64.04,
+    "light": 75.09,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 71.32,
+    "rotation": 4.74,
+    "magnetic_field": 246.42,
+    "light": 392.12,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 98.01,
+    "rotation": 12.49,
+    "magnetic_field": 558.28,
+    "light": 526.35,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 38.72,
+    "rotation": 0.04,
+    "magnetic_field": 159.53,
+    "light": 222.22,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 46.17,
+    "rotation": 6.88,
+    "magnetic_field": 351.13,
+    "light": 62.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.69,
+    "rotation": 9.08,
+    "magnetic_field": 370.15,
+    "light": 214.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.31,
+    "rotation": 5.68,
+    "magnetic_field": 247.84,
+    "light": 333.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.33,
+    "rotation": 6.28,
+    "magnetic_field": 245.47,
+    "light": 15.27,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 62.4,
+    "rotation": 0.74,
+    "magnetic_field": 182.66,
+    "light": 246.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.61,
+    "rotation": 5.87,
+    "magnetic_field": 97.3,
+    "light": 272.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 39.86,
+    "rotation": 0.56,
+    "magnetic_field": 129.07,
+    "light": 384.65,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 61.62,
+    "rotation": 8.47,
+    "magnetic_field": 78.28,
+    "light": 177.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 119.65,
+    "rotation": 15.12,
+    "magnetic_field": 505.08,
+    "light": 522.01,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 141.33,
+    "rotation": 17.2,
+    "magnetic_field": 407.03,
+    "light": 568.67,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 9.84,
+    "rotation": 9.52,
+    "magnetic_field": 98.87,
+    "light": 84.53,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.65,
+    "rotation": 6.36,
+    "magnetic_field": 261.19,
+    "light": 153.78,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 64.93,
+    "rotation": 0.34,
+    "magnetic_field": 252.16,
+    "light": 104.14,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 69.82,
+    "rotation": 6.73,
+    "magnetic_field": 326.39,
+    "light": 350.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 13.19,
+    "rotation": 5.81,
+    "magnetic_field": 114.27,
+    "light": 132.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 20.51,
+    "rotation": 9.66,
+    "magnetic_field": 33.31,
+    "light": 313.67,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.11,
+    "rotation": 1.58,
+    "magnetic_field": 64.74,
+    "light": 159.1,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.8,
+    "rotation": 1.8,
+    "magnetic_field": 334.15,
+    "light": 141.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.07,
+    "rotation": 7.4,
+    "magnetic_field": 49.08,
+    "light": 128.86,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 141.12,
+    "rotation": 15.71,
+    "magnetic_field": 466.92,
+    "light": 447.02,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 32.76,
+    "rotation": 3.38,
+    "magnetic_field": 48.28,
+    "light": 215.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.51,
+    "rotation": 3.25,
+    "magnetic_field": 220.54,
+    "light": 270.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.92,
+    "rotation": 4.84,
+    "magnetic_field": 213.72,
+    "light": 357.24,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.92,
+    "rotation": 5.23,
+    "magnetic_field": 225.97,
+    "light": 285.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.52,
+    "rotation": 6.38,
+    "magnetic_field": 286.31,
+    "light": 357.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.97,
+    "rotation": 9.76,
+    "magnetic_field": 82.6,
+    "light": 266.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 38.13,
+    "rotation": 0.44,
+    "magnetic_field": 206.61,
+    "light": 263.42,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 138.82,
+    "rotation": 17.5,
+    "magnetic_field": 402.4,
+    "light": 598.4,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 0.55,
+    "rotation": 6.89,
+    "magnetic_field": 204.63,
+    "light": 273.67,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 83.06,
+    "rotation": 18.46,
+    "magnetic_field": 552.65,
+    "light": 572.61,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 104.27,
+    "rotation": 17.67,
+    "magnetic_field": 588.84,
+    "light": 407.04,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 49.02,
+    "rotation": 2.08,
+    "magnetic_field": 145.28,
+    "light": 294.14,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.99,
+    "rotation": 7.94,
+    "magnetic_field": 317.09,
+    "light": 2.48,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.47,
+    "rotation": 7.19,
+    "magnetic_field": 305.62,
+    "light": 178.14,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 9.6,
+    "rotation": 8.54,
+    "magnetic_field": 93.08,
+    "light": 16.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 16.05,
+    "rotation": 9.49,
+    "magnetic_field": 93.47,
+    "light": 153.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 26.76,
+    "rotation": 7.27,
+    "magnetic_field": 157.53,
+    "light": 270.34,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 117.34,
+    "rotation": 17.83,
+    "magnetic_field": 579.42,
+    "light": 535.39,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 70.24,
+    "rotation": 2.52,
+    "magnetic_field": 95.31,
+    "light": 232.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 27.59,
+    "rotation": 1.48,
+    "magnetic_field": 303.16,
+    "light": 148.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 39.5,
+    "rotation": 2.4,
+    "magnetic_field": 242.92,
+    "light": 155.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 1.75,
+    "rotation": 4.44,
+    "magnetic_field": 98.69,
+    "light": 248.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 73.27,
+    "rotation": 9.22,
+    "magnetic_field": 193.79,
+    "light": 187.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 82.72,
+    "rotation": 13.32,
+    "magnetic_field": 416.82,
+    "light": 505.71,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 90.49,
+    "rotation": 14.98,
+    "magnetic_field": 451.72,
+    "light": 589.71,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 42.94,
+    "rotation": 5.76,
+    "magnetic_field": 130.83,
+    "light": 164.54,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 134.99,
+    "rotation": 16.06,
+    "magnetic_field": 554.24,
+    "light": 429.27,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 39.02,
+    "rotation": 0.0,
+    "magnetic_field": 93.03,
+    "light": 307.22,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.96,
+    "rotation": 4.52,
+    "magnetic_field": 254.64,
+    "light": 311.48,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 147.66,
+    "rotation": 16.63,
+    "magnetic_field": 401.55,
+    "light": 441.55,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 27.2,
+    "rotation": 2.36,
+    "magnetic_field": 235.28,
+    "light": 231.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 136.21,
+    "rotation": 10.03,
+    "magnetic_field": 422.73,
+    "light": 300.44,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 1.23,
+    "rotation": 2.33,
+    "magnetic_field": 301.74,
+    "light": 316.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 38.26,
+    "rotation": 1.99,
+    "magnetic_field": 310.08,
+    "light": 249.47,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.78,
+    "rotation": 5.38,
+    "magnetic_field": 292.8,
+    "light": 365.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 56.33,
+    "rotation": 6.33,
+    "magnetic_field": 374.22,
+    "light": 172.4,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 29.27,
+    "rotation": 8.1,
+    "magnetic_field": 288.69,
+    "light": 290.19,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 33.28,
+    "rotation": 6.7,
+    "magnetic_field": 110.93,
+    "light": 299.73,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 7.97,
+    "rotation": 5.83,
+    "magnetic_field": 287.66,
+    "light": 267.8,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 79.31,
+    "rotation": 2.81,
+    "magnetic_field": 344.93,
+    "light": 81.89,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 5.88,
+    "rotation": 1.78,
+    "magnetic_field": 57.79,
+    "light": 372.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.51,
+    "rotation": 1.08,
+    "magnetic_field": 283.65,
+    "light": 244.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 51.06,
+    "rotation": 4.87,
+    "magnetic_field": 25.72,
+    "light": 316.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 114.73,
+    "rotation": 15.76,
+    "magnetic_field": 533.66,
+    "light": 591.83,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 31.94,
+    "rotation": 2.69,
+    "magnetic_field": 26.2,
+    "light": 305.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 27.52,
+    "rotation": 2.46,
+    "magnetic_field": 248.16,
+    "light": 215.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 27.36,
+    "rotation": 3.71,
+    "magnetic_field": 381.74,
+    "light": 332.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 58.06,
+    "rotation": 9.03,
+    "magnetic_field": 213.8,
+    "light": 19.16,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.7,
+    "rotation": 0.89,
+    "magnetic_field": 339.56,
+    "light": 295.67,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 19.48,
+    "rotation": 1.21,
+    "magnetic_field": 165.77,
+    "light": 236.4,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.96,
+    "rotation": 6.25,
+    "magnetic_field": 274.2,
+    "light": 354.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 107.79,
+    "rotation": 15.1,
+    "magnetic_field": 570.24,
+    "light": 477.31,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 65.08,
+    "rotation": 9.32,
+    "magnetic_field": 374.03,
+    "light": 200.73,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.75,
+    "rotation": 3.45,
+    "magnetic_field": 326.73,
+    "light": 97.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 79.19,
+    "rotation": 4.62,
+    "magnetic_field": 105.37,
+    "light": 95.98,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 108.35,
+    "rotation": 11.09,
+    "magnetic_field": 434.52,
+    "light": 481.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.96,
+    "rotation": 2.84,
+    "magnetic_field": 308.44,
+    "light": 42.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 67.63,
+    "rotation": 9.42,
+    "magnetic_field": 130.21,
+    "light": 108.25,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.17,
+    "rotation": 0.38,
+    "magnetic_field": 113.51,
+    "light": 370.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 54.37,
+    "rotation": 5.85,
+    "magnetic_field": 41.09,
+    "light": 309.69,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.87,
+    "rotation": 6.33,
+    "magnetic_field": 166.22,
+    "light": 361.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 98.42,
+    "rotation": 10.03,
+    "magnetic_field": 504.23,
+    "light": 478.85,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 40.52,
+    "rotation": 0.54,
+    "magnetic_field": 309.36,
+    "light": 371.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.3,
+    "rotation": 0.84,
+    "magnetic_field": 102.59,
+    "light": 72.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 61.56,
+    "rotation": 0.7,
+    "magnetic_field": 43.07,
+    "light": 171.42,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 130.55,
+    "rotation": 10.06,
+    "magnetic_field": 433.38,
+    "light": 486.26,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 49.64,
+    "rotation": 3.57,
+    "magnetic_field": 269.02,
+    "light": 121.27,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.73,
+    "rotation": 9.07,
+    "magnetic_field": 206.71,
+    "light": 236.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 7.82,
+    "rotation": 7.37,
+    "magnetic_field": 26.44,
+    "light": 317.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.08,
+    "rotation": 3.23,
+    "magnetic_field": 170.39,
+    "light": 123.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 52.78,
+    "rotation": 9.67,
+    "magnetic_field": 43.02,
+    "light": 300.65,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.44,
+    "rotation": 6.21,
+    "magnetic_field": 187.86,
+    "light": 164.35,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 22.03,
+    "rotation": 7.57,
+    "magnetic_field": 397.65,
+    "light": 20.35,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 4.62,
+    "rotation": 7.05,
+    "magnetic_field": 295.56,
+    "light": 370.81,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 8.93,
+    "rotation": 5.84,
+    "magnetic_field": 369.1,
+    "light": 197.17,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 67.99,
+    "rotation": 4.71,
+    "magnetic_field": 181.82,
+    "light": 18.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 69.31,
+    "rotation": 5.77,
+    "magnetic_field": 187.52,
+    "light": 282.56,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.28,
+    "rotation": 6.37,
+    "magnetic_field": 380.54,
+    "light": 367.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.29,
+    "rotation": 5.5,
+    "magnetic_field": 251.8,
+    "light": 231.37,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 30.46,
+    "rotation": 4.41,
+    "magnetic_field": 177.84,
+    "light": 260.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.58,
+    "rotation": 2.11,
+    "magnetic_field": 390.59,
+    "light": 204.1,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.15,
+    "rotation": 1.75,
+    "magnetic_field": 369.39,
+    "light": 82.25,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 86.23,
+    "rotation": 15.46,
+    "magnetic_field": 523.79,
+    "light": 402.44,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 11.5,
+    "rotation": 8.82,
+    "magnetic_field": 259.67,
+    "light": 397.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.23,
+    "rotation": 4.55,
+    "magnetic_field": 178.97,
+    "light": 104.3,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 136.31,
+    "rotation": 11.07,
+    "magnetic_field": 467.84,
+    "light": 425.3,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 44.26,
+    "rotation": 4.69,
+    "magnetic_field": 321.25,
+    "light": 292.01,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.66,
+    "rotation": 7.58,
+    "magnetic_field": 312.81,
+    "light": 120.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 25.65,
+    "rotation": 4.4,
+    "magnetic_field": 272.67,
+    "light": 353.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 106.76,
+    "rotation": 11.0,
+    "magnetic_field": 488.33,
+    "light": 573.2,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 133.92,
+    "rotation": 18.1,
+    "magnetic_field": 587.23,
+    "light": 535.57,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 126.23,
+    "rotation": 18.98,
+    "magnetic_field": 432.72,
+    "light": 556.2,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 66.61,
+    "rotation": 4.06,
+    "magnetic_field": 292.66,
+    "light": 169.45,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 28.38,
+    "rotation": 3.88,
+    "magnetic_field": 288.66,
+    "light": 341.56,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 9.18,
+    "rotation": 6.9,
+    "magnetic_field": 90.24,
+    "light": 154.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.87,
+    "rotation": 1.01,
+    "magnetic_field": 40.56,
+    "light": 177.27,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 116.15,
+    "rotation": 17.43,
+    "magnetic_field": 438.0,
+    "light": 550.54,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 45.69,
+    "rotation": 4.69,
+    "magnetic_field": 382.45,
+    "light": 305.45,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.15,
+    "rotation": 1.95,
+    "magnetic_field": 258.62,
+    "light": 80.65,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.7,
+    "rotation": 6.68,
+    "magnetic_field": 188.39,
+    "light": 36.07,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 105.91,
+    "rotation": 14.95,
+    "magnetic_field": 553.01,
+    "light": 543.01,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 37.67,
+    "rotation": 0.51,
+    "magnetic_field": 370.28,
+    "light": 9.01,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 9.67,
+    "rotation": 3.88,
+    "magnetic_field": 125.21,
+    "light": 19.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.12,
+    "rotation": 3.86,
+    "magnetic_field": 132.67,
+    "light": 276.08,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 19.69,
+    "rotation": 4.2,
+    "magnetic_field": 148.23,
+    "light": 68.91,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.1,
+    "rotation": 0.63,
+    "magnetic_field": 83.2,
+    "light": 339.65,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.78,
+    "rotation": 7.52,
+    "magnetic_field": 334.21,
+    "light": 306.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 13.5,
+    "rotation": 5.52,
+    "magnetic_field": 157.99,
+    "light": 90.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.51,
+    "rotation": 0.01,
+    "magnetic_field": 40.55,
+    "light": 336.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.97,
+    "rotation": 2.69,
+    "magnetic_field": 88.6,
+    "light": 366.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.51,
+    "rotation": 5.59,
+    "magnetic_field": 239.2,
+    "light": 186.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.1,
+    "rotation": 2.68,
+    "magnetic_field": 217.6,
+    "light": 228.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 30.76,
+    "rotation": 2.59,
+    "magnetic_field": 337.16,
+    "light": 355.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 106.23,
+    "rotation": 18.27,
+    "magnetic_field": 547.16,
+    "light": 596.8,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 76.75,
+    "rotation": 2.97,
+    "magnetic_field": 217.34,
+    "light": 79.58,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 71.33,
+    "rotation": 6.09,
+    "magnetic_field": 75.67,
+    "light": 318.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 53.87,
+    "rotation": 7.46,
+    "magnetic_field": 121.87,
+    "light": 131.38,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 46.63,
+    "rotation": 3.64,
+    "magnetic_field": 263.13,
+    "light": 174.27,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.71,
+    "rotation": 2.89,
+    "magnetic_field": 247.53,
+    "light": 117.53,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 131.1,
+    "rotation": 15.75,
+    "magnetic_field": 401.44,
+    "light": 534.6,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 69.76,
+    "rotation": 5.65,
+    "magnetic_field": 226.37,
+    "light": 382.28,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 68.99,
+    "rotation": 6.95,
+    "magnetic_field": 376.56,
+    "light": 49.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 20.31,
+    "rotation": 4.88,
+    "magnetic_field": 300.45,
+    "light": 335.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 125.49,
+    "rotation": 11.12,
+    "magnetic_field": 457.43,
+    "light": 458.87,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 128.49,
+    "rotation": 15.12,
+    "magnetic_field": 457.43,
+    "light": 458.87,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 130.49,
+    "rotation": 15.12,
+    "magnetic_field": 457.43,
+    "light": 458.87,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 140.49,
+    "rotation": 11.12,
+    "magnetic_field": 457.43,
+    "light": 458.87,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 122.49,
+    "rotation": 16.12,
+    "magnetic_field": 457.43,
+    "light": 458.87,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 125.49,
+    "rotation": 11.12,
+    "magnetic_field": 457.43,
+    "light": 458.87,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 18.3,
+    "rotation": 1.68,
+    "magnetic_field": 380.75,
+    "light": 77.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.82,
+    "rotation": 3.26,
+    "magnetic_field": 139.57,
+    "light": 383.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.66,
+    "rotation": 7.88,
+    "magnetic_field": 332.84,
+    "light": 216.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 51.5,
+    "rotation": 9.47,
+    "magnetic_field": 294.95,
+    "light": 65.93,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.17,
+    "rotation": 7.25,
+    "magnetic_field": 81.52,
+    "light": 347.86,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.35,
+    "rotation": 7.1,
+    "magnetic_field": 353.49,
+    "light": 144.49,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 59.89,
+    "rotation": 6.28,
+    "magnetic_field": 149.86,
+    "light": 252.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 88.73,
+    "rotation": 18.62,
+    "magnetic_field": 441.97,
+    "light": 537.33,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 67.34,
+    "rotation": 4.35,
+    "magnetic_field": 307.99,
+    "light": 174.66,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 104.28,
+    "rotation": 14.31,
+    "magnetic_field": 472.22,
+    "light": 577.33,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 22.13,
+    "rotation": 8.3,
+    "magnetic_field": 255.99,
+    "light": 166.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.55,
+    "rotation": 3.28,
+    "magnetic_field": 222.65,
+    "light": 124.08,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.64,
+    "rotation": 5.37,
+    "magnetic_field": 29.22,
+    "light": 325.73,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 6.86,
+    "rotation": 6.2,
+    "magnetic_field": 117.34,
+    "light": 276.19,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.28,
+    "rotation": 4.27,
+    "magnetic_field": 398.19,
+    "light": 10.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 140.26,
+    "rotation": 18.76,
+    "magnetic_field": 481.96,
+    "light": 534.6,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 18.0,
+    "rotation": 5.77,
+    "magnetic_field": 69.42,
+    "light": 202.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 6.75,
+    "rotation": 8.12,
+    "magnetic_field": 137.35,
+    "light": 195.48,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 4.4,
+    "rotation": 6.52,
+    "magnetic_field": 386.5,
+    "light": 341.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 22.28,
+    "rotation": 8.39,
+    "magnetic_field": 271.19,
+    "light": 240.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 144.21,
+    "rotation": 18.61,
+    "magnetic_field": 473.78,
+    "light": 463.82,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 18.95,
+    "rotation": 7.71,
+    "magnetic_field": 233.86,
+    "light": 369.23,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.77,
+    "rotation": 8.58,
+    "magnetic_field": 161.3,
+    "light": 107.05,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 69.19,
+    "rotation": 0.28,
+    "magnetic_field": 152.01,
+    "light": 352.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.64,
+    "rotation": 0.9,
+    "magnetic_field": 103.38,
+    "light": 110.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 84.61,
+    "rotation": 14.63,
+    "magnetic_field": 431.35,
+    "light": 465.92,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 26.45,
+    "rotation": 9.63,
+    "magnetic_field": 128.47,
+    "light": 223.71,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 144.91,
+    "rotation": 18.45,
+    "magnetic_field": 581.48,
+    "light": 570.73,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 141.7,
+    "rotation": 12.41,
+    "magnetic_field": 465.71,
+    "light": 494.47,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 16.77,
+    "rotation": 8.33,
+    "magnetic_field": 246.24,
+    "light": 278.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 141.37,
+    "rotation": 14.79,
+    "magnetic_field": 523.0,
+    "light": 494.75,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 47.27,
+    "rotation": 1.04,
+    "magnetic_field": 190.57,
+    "light": 47.9,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 83.91,
+    "rotation": 15.06,
+    "magnetic_field": 491.82,
+    "light": 415.33,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 37.55,
+    "rotation": 6.03,
+    "magnetic_field": 164.5,
+    "light": 81.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.81,
+    "rotation": 7.23,
+    "magnetic_field": 213.53,
+    "light": 44.28,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.47,
+    "rotation": 0.72,
+    "magnetic_field": 115.35,
+    "light": 369.51,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 66.71,
+    "rotation": 4.35,
+    "magnetic_field": 161.6,
+    "light": 68.08,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.24,
+    "rotation": 6.02,
+    "magnetic_field": 346.27,
+    "light": 148.47,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 76.69,
+    "rotation": 8.7,
+    "magnetic_field": 252.3,
+    "light": 99.73,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.71,
+    "rotation": 3.67,
+    "magnetic_field": 191.23,
+    "light": 303.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 47.24,
+    "rotation": 5.2,
+    "magnetic_field": 199.36,
+    "light": 153.28,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.61,
+    "rotation": 8.32,
+    "magnetic_field": 221.04,
+    "light": 278.23,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 54.0,
+    "rotation": 0.09,
+    "magnetic_field": 59.05,
+    "light": 17.27,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 44.35,
+    "rotation": 4.19,
+    "magnetic_field": 253.27,
+    "light": 323.25,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 6.66,
+    "rotation": 0.07,
+    "magnetic_field": 178.52,
+    "light": 174.82,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 146.19,
+    "rotation": 18.83,
+    "magnetic_field": 566.62,
+    "light": 501.9,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 69.14,
+    "rotation": 7.94,
+    "magnetic_field": 390.13,
+    "light": 138.72,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.48,
+    "rotation": 4.16,
+    "magnetic_field": 391.15,
+    "light": 147.57,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 14.89,
+    "rotation": 0.25,
+    "magnetic_field": 371.7,
+    "light": 21.26,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 114.41,
+    "rotation": 14.41,
+    "magnetic_field": 492.43,
+    "light": 464.99,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 68.35,
+    "rotation": 4.04,
+    "magnetic_field": 41.9,
+    "light": 140.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.01,
+    "rotation": 1.67,
+    "magnetic_field": 383.41,
+    "light": 262.09,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 138.21,
+    "rotation": 11.17,
+    "magnetic_field": 480.82,
+    "light": 573.2,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 26.57,
+    "rotation": 2.08,
+    "magnetic_field": 39.31,
+    "light": 258.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.99,
+    "rotation": 1.06,
+    "magnetic_field": 337.51,
+    "light": 244.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 102.46,
+    "rotation": 16.98,
+    "magnetic_field": 516.8,
+    "light": 453.57,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 11.91,
+    "rotation": 1.93,
+    "magnetic_field": 85.33,
+    "light": 102.54,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 85.39,
+    "rotation": 14.46,
+    "magnetic_field": 503.21,
+    "light": 554.23,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 3.57,
+    "rotation": 2.07,
+    "magnetic_field": 340.55,
+    "light": 67.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.89,
+    "rotation": 1.06,
+    "magnetic_field": 30.94,
+    "light": 225.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 43.5,
+    "rotation": 5.05,
+    "magnetic_field": 214.25,
+    "light": 319.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 126.41,
+    "rotation": 13.21,
+    "magnetic_field": 410.88,
+    "light": 518.65,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 53.87,
+    "rotation": 6.15,
+    "magnetic_field": 171.16,
+    "light": 64.39,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 1.72,
+    "rotation": 1.03,
+    "magnetic_field": 360.11,
+    "light": 183.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 86.34,
+    "rotation": 14.19,
+    "magnetic_field": 499.25,
+    "light": 436.81,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 141.86,
+    "rotation": 17.58,
+    "magnetic_field": 524.73,
+    "light": 504.92,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 66.33,
+    "rotation": 0.85,
+    "magnetic_field": 27.39,
+    "light": 389.34,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 22.57,
+    "rotation": 3.97,
+    "magnetic_field": 77.07,
+    "light": 169.16,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 70.38,
+    "rotation": 0.23,
+    "magnetic_field": 235.0,
+    "light": 379.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.85,
+    "rotation": 6.39,
+    "magnetic_field": 281.01,
+    "light": 65.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 26.34,
+    "rotation": 0.32,
+    "magnetic_field": 108.98,
+    "light": 191.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 39.35,
+    "rotation": 4.78,
+    "magnetic_field": 59.52,
+    "light": 38.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 43.86,
+    "rotation": 7.91,
+    "magnetic_field": 342.85,
+    "light": 387.8,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.43,
+    "rotation": 4.4,
+    "magnetic_field": 361.43,
+    "light": 195.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 80.42,
+    "rotation": 12.54,
+    "magnetic_field": 561.86,
+    "light": 500.69,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 42.82,
+    "rotation": 7.35,
+    "magnetic_field": 353.12,
+    "light": 319.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.41,
+    "rotation": 7.94,
+    "magnetic_field": 56.27,
+    "light": 73.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 3.51,
+    "rotation": 8.32,
+    "magnetic_field": 214.39,
+    "light": 398.3,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.04,
+    "rotation": 9.81,
+    "magnetic_field": 365.42,
+    "light": 312.57,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.83,
+    "rotation": 0.87,
+    "magnetic_field": 355.63,
+    "light": 225.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 17.03,
+    "rotation": 7.7,
+    "magnetic_field": 275.36,
+    "light": 79.04,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 29.18,
+    "rotation": 8.61,
+    "magnetic_field": 277.28,
+    "light": 180.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 7.17,
+    "rotation": 5.9,
+    "magnetic_field": 74.78,
+    "light": 193.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.19,
+    "rotation": 7.02,
+    "magnetic_field": 60.76,
+    "light": 79.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 97.07,
+    "rotation": 13.85,
+    "magnetic_field": 555.33,
+    "light": 485.21,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 125.72,
+    "rotation": 16.13,
+    "magnetic_field": 577.5,
+    "light": 424.57,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 57.63,
+    "rotation": 3.17,
+    "magnetic_field": 363.05,
+    "light": 34.11,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 48.1,
+    "rotation": 0.37,
+    "magnetic_field": 376.31,
+    "light": 179.25,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.17,
+    "rotation": 7.72,
+    "magnetic_field": 135.02,
+    "light": 358.04,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.05,
+    "rotation": 8.39,
+    "magnetic_field": 26.31,
+    "light": 282.81,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 139.3,
+    "rotation": 13.95,
+    "magnetic_field": 473.05,
+    "light": 583.89,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 27.74,
+    "rotation": 9.95,
+    "magnetic_field": 355.9,
+    "light": 129.67,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 52.84,
+    "rotation": 7.83,
+    "magnetic_field": 141.45,
+    "light": 372.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 62.48,
+    "rotation": 9.4,
+    "magnetic_field": 87.15,
+    "light": 83.85,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 147.85,
+    "rotation": 11.15,
+    "magnetic_field": 433.82,
+    "light": 421.29,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 20.41,
+    "rotation": 5.54,
+    "magnetic_field": 25.99,
+    "light": 328.78,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 43.74,
+    "rotation": 3.77,
+    "magnetic_field": 249.6,
+    "light": 291.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 1.88,
+    "rotation": 0.08,
+    "magnetic_field": 58.69,
+    "light": 159.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 20.1,
+    "rotation": 5.61,
+    "magnetic_field": 124.39,
+    "light": 242.9,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 17.15,
+    "rotation": 9.39,
+    "magnetic_field": 156.14,
+    "light": 276.11,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 30.72,
+    "rotation": 9.13,
+    "magnetic_field": 361.28,
+    "light": 197.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.04,
+    "rotation": 0.71,
+    "magnetic_field": 324.25,
+    "light": 285.14,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.75,
+    "rotation": 3.02,
+    "magnetic_field": 276.03,
+    "light": 242.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.31,
+    "rotation": 1.21,
+    "magnetic_field": 33.91,
+    "light": 55.04,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 143.95,
+    "rotation": 15.33,
+    "magnetic_field": 417.94,
+    "light": 424.45,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 71.44,
+    "rotation": 9.22,
+    "magnetic_field": 110.94,
+    "light": 353.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 138.26,
+    "rotation": 19.37,
+    "magnetic_field": 512.89,
+    "light": 545.72,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 20.77,
+    "rotation": 4.85,
+    "magnetic_field": 309.03,
+    "light": 115.25,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 70.9,
+    "rotation": 8.98,
+    "magnetic_field": 264.3,
+    "light": 294.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 123.63,
+    "rotation": 11.9,
+    "magnetic_field": 468.81,
+    "light": 467.79,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 30.54,
+    "rotation": 2.93,
+    "magnetic_field": 374.04,
+    "light": 22.09,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 13.78,
+    "rotation": 2.44,
+    "magnetic_field": 196.08,
+    "light": 36.55,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 5.81,
+    "rotation": 1.34,
+    "magnetic_field": 24.24,
+    "light": 166.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.79,
+    "rotation": 7.27,
+    "magnetic_field": 92.76,
+    "light": 104.85,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.05,
+    "rotation": 9.48,
+    "magnetic_field": 38.69,
+    "light": 390.86,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 62.73,
+    "rotation": 0.45,
+    "magnetic_field": 182.25,
+    "light": 55.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.85,
+    "rotation": 1.38,
+    "magnetic_field": 216.22,
+    "light": 220.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 47.68,
+    "rotation": 4.55,
+    "magnetic_field": 82.98,
+    "light": 286.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.03,
+    "rotation": 1.06,
+    "magnetic_field": 175.87,
+    "light": 287.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 33.73,
+    "rotation": 9.24,
+    "magnetic_field": 249.23,
+    "light": 346.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 101.07,
+    "rotation": 16.25,
+    "magnetic_field": 534.57,
+    "light": 535.03,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 0.69,
+    "rotation": 6.65,
+    "magnetic_field": 137.11,
+    "light": 355.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 90.84,
+    "rotation": 10.43,
+    "magnetic_field": 475.2,
+    "light": 434.12,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 6.85,
+    "rotation": 7.56,
+    "magnetic_field": 221.43,
+    "light": 103.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 9.07,
+    "rotation": 5.0,
+    "magnetic_field": 95.04,
+    "light": 12.34,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 39.02,
+    "rotation": 7.29,
+    "magnetic_field": 68.53,
+    "light": 29.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 51.25,
+    "rotation": 5.23,
+    "magnetic_field": 259.88,
+    "light": 109.93,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 30.14,
+    "rotation": 5.63,
+    "magnetic_field": 366.96,
+    "light": 339.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 146.1,
+    "rotation": 19.32,
+    "magnetic_field": 524.57,
+    "light": 595.71,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 51.11,
+    "rotation": 4.69,
+    "magnetic_field": 391.64,
+    "light": 391.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 10.22,
+    "rotation": 1.33,
+    "magnetic_field": 352.24,
+    "light": 380.55,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.43,
+    "rotation": 1.12,
+    "magnetic_field": 290.98,
+    "light": 371.51,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 78.24,
+    "rotation": 2.81,
+    "magnetic_field": 337.21,
+    "light": 258.22,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 129.18,
+    "rotation": 15.0,
+    "magnetic_field": 544.41,
+    "light": 582.3,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 34.87,
+    "rotation": 0.24,
+    "magnetic_field": 138.43,
+    "light": 165.35,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.33,
+    "rotation": 3.96,
+    "magnetic_field": 110.37,
+    "light": 38.55,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.39,
+    "rotation": 7.0,
+    "magnetic_field": 109.04,
+    "light": 132.11,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.38,
+    "rotation": 4.6,
+    "magnetic_field": 46.12,
+    "light": 210.05,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 4.82,
+    "rotation": 4.31,
+    "magnetic_field": 97.1,
+    "light": 312.12,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 128.4,
+    "rotation": 12.24,
+    "magnetic_field": 509.64,
+    "light": 599.56,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 137.81,
+    "rotation": 17.31,
+    "magnetic_field": 576.97,
+    "light": 475.8,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 50.74,
+    "rotation": 2.72,
+    "magnetic_field": 155.83,
+    "light": 139.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 4.63,
+    "rotation": 6.28,
+    "magnetic_field": 67.13,
+    "light": 268.22,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 61.94,
+    "rotation": 7.61,
+    "magnetic_field": 392.45,
+    "light": 176.38,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 25.5,
+    "rotation": 4.08,
+    "magnetic_field": 68.71,
+    "light": 386.72,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 3.44,
+    "rotation": 5.71,
+    "magnetic_field": 316.35,
+    "light": 233.66,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 5.5,
+    "rotation": 3.27,
+    "magnetic_field": 232.33,
+    "light": 245.56,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.49,
+    "rotation": 7.92,
+    "magnetic_field": 167.28,
+    "light": 108.94,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 108.0,
+    "rotation": 16.4,
+    "magnetic_field": 559.33,
+    "light": 598.23,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 36.97,
+    "rotation": 1.66,
+    "magnetic_field": 47.3,
+    "light": 341.15,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 32.15,
+    "rotation": 4.9,
+    "magnetic_field": 291.48,
+    "light": 196.26,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.78,
+    "rotation": 8.37,
+    "magnetic_field": 175.68,
+    "light": 29.46,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 33.55,
+    "rotation": 1.89,
+    "magnetic_field": 26.51,
+    "light": 300.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 14.38,
+    "rotation": 5.53,
+    "magnetic_field": 95.98,
+    "light": 379.45,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.99,
+    "rotation": 2.95,
+    "magnetic_field": 94.15,
+    "light": 378.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.06,
+    "rotation": 0.9,
+    "magnetic_field": 217.79,
+    "light": 297.94,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 32.24,
+    "rotation": 6.88,
+    "magnetic_field": 178.03,
+    "light": 243.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 105.43,
+    "rotation": 16.1,
+    "magnetic_field": 432.51,
+    "light": 505.3,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 44.09,
+    "rotation": 9.85,
+    "magnetic_field": 292.39,
+    "light": 178.4,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 56.68,
+    "rotation": 1.79,
+    "magnetic_field": 36.72,
+    "light": 348.35,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.02,
+    "rotation": 8.16,
+    "magnetic_field": 246.98,
+    "light": 99.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.15,
+    "rotation": 2.73,
+    "magnetic_field": 373.8,
+    "light": 390.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 47.38,
+    "rotation": 6.33,
+    "magnetic_field": 219.15,
+    "light": 7.37,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 1.44,
+    "rotation": 9.77,
+    "magnetic_field": 47.95,
+    "light": 307.08,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 59.26,
+    "rotation": 5.12,
+    "magnetic_field": 357.09,
+    "light": 92.16,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.03,
+    "rotation": 8.46,
+    "magnetic_field": 330.43,
+    "light": 242.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 52.05,
+    "rotation": 2.67,
+    "magnetic_field": 169.72,
+    "light": 381.42,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 51.59,
+    "rotation": 3.21,
+    "magnetic_field": 236.49,
+    "light": 258.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.78,
+    "rotation": 1.73,
+    "magnetic_field": 154.72,
+    "light": 33.14,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.42,
+    "rotation": 1.99,
+    "magnetic_field": 223.72,
+    "light": 151.23,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.27,
+    "rotation": 0.15,
+    "magnetic_field": 298.63,
+    "light": 346.39,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.88,
+    "rotation": 9.64,
+    "magnetic_field": 198.77,
+    "light": 363.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 127.47,
+    "rotation": 16.13,
+    "magnetic_field": 491.63,
+    "light": 422.08,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 9.85,
+    "rotation": 4.36,
+    "magnetic_field": 103.03,
+    "light": 77.51,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.91,
+    "rotation": 2.53,
+    "magnetic_field": 138.28,
+    "light": 85.28,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 92.42,
+    "rotation": 16.45,
+    "magnetic_field": 578.82,
+    "light": 425.3,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 74.03,
+    "rotation": 6.45,
+    "magnetic_field": 244.9,
+    "light": 218.82,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 78.69,
+    "rotation": 8.81,
+    "magnetic_field": 231.18,
+    "light": 243.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 70.68,
+    "rotation": 2.54,
+    "magnetic_field": 362.16,
+    "light": 308.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 106.46,
+    "rotation": 19.96,
+    "magnetic_field": 479.5,
+    "light": 560.65,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 22.42,
+    "rotation": 0.49,
+    "magnetic_field": 84.75,
+    "light": 123.86,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 52.65,
+    "rotation": 9.0,
+    "magnetic_field": 291.22,
+    "light": 109.85,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 0.48,
+    "rotation": 9.28,
+    "magnetic_field": 149.53,
+    "light": 372.89,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 97.68,
+    "rotation": 14.78,
+    "magnetic_field": 586.82,
+    "light": 444.11,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 138.25,
+    "rotation": 16.76,
+    "magnetic_field": 430.59,
+    "light": 406.61,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 50.36,
+    "rotation": 8.76,
+    "magnetic_field": 263.14,
+    "light": 321.65,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.27,
+    "rotation": 5.43,
+    "magnetic_field": 374.51,
+    "light": 281.91,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 96.99,
+    "rotation": 19.18,
+    "magnetic_field": 407.85,
+    "light": 569.25,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 29.29,
+    "rotation": 8.63,
+    "magnetic_field": 399.4,
+    "light": 376.39,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.51,
+    "rotation": 5.42,
+    "magnetic_field": 153.71,
+    "light": 353.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.27,
+    "rotation": 1.26,
+    "magnetic_field": 26.16,
+    "light": 357.97,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.6,
+    "rotation": 8.25,
+    "magnetic_field": 182.51,
+    "light": 18.54,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 110.28,
+    "rotation": 15.62,
+    "magnetic_field": 476.71,
+    "light": 571.92,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 143.23,
+    "rotation": 19.5,
+    "magnetic_field": 422.23,
+    "light": 454.47,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 45.07,
+    "rotation": 2.15,
+    "magnetic_field": 289.55,
+    "light": 51.96,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 20.15,
+    "rotation": 2.37,
+    "magnetic_field": 144.36,
+    "light": 199.45,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 14.18,
+    "rotation": 0.39,
+    "magnetic_field": 242.0,
+    "light": 0.94,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 67.95,
+    "rotation": 4.15,
+    "magnetic_field": 45.62,
+    "light": 91.55,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 142.56,
+    "rotation": 11.08,
+    "magnetic_field": 490.47,
+    "light": 450.89,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 65.72,
+    "rotation": 2.41,
+    "magnetic_field": 281.36,
+    "light": 304.53,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.39,
+    "rotation": 6.47,
+    "magnetic_field": 261.05,
+    "light": 279.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 90.52,
+    "rotation": 15.34,
+    "magnetic_field": 499.21,
+    "light": 581.56,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 74.03,
+    "rotation": 9.54,
+    "magnetic_field": 174.02,
+    "light": 1.26,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.14,
+    "rotation": 3.97,
+    "magnetic_field": 286.86,
+    "light": 61.38,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.73,
+    "rotation": 6.3,
+    "magnetic_field": 330.14,
+    "light": 65.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 38.22,
+    "rotation": 1.47,
+    "magnetic_field": 354.8,
+    "light": 31.35,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.58,
+    "rotation": 5.11,
+    "magnetic_field": 49.46,
+    "light": 301.17,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 35.78,
+    "rotation": 2.82,
+    "magnetic_field": 196.37,
+    "light": 89.91,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.85,
+    "rotation": 9.18,
+    "magnetic_field": 127.13,
+    "light": 280.1,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.78,
+    "rotation": 2.95,
+    "magnetic_field": 349.89,
+    "light": 174.81,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 9.61,
+    "rotation": 1.5,
+    "magnetic_field": 213.66,
+    "light": 181.47,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 53.65,
+    "rotation": 6.16,
+    "magnetic_field": 349.98,
+    "light": 35.3,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.56,
+    "rotation": 0.57,
+    "magnetic_field": 226.52,
+    "light": 30.27,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 66.18,
+    "rotation": 6.31,
+    "magnetic_field": 71.23,
+    "light": 305.1,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 103.45,
+    "rotation": 11.17,
+    "magnetic_field": 403.3,
+    "light": 522.07,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 1.69,
+    "rotation": 4.94,
+    "magnetic_field": 350.41,
+    "light": 5.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 54.54,
+    "rotation": 3.35,
+    "magnetic_field": 85.72,
+    "light": 60.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.53,
+    "rotation": 1.13,
+    "magnetic_field": 24.12,
+    "light": 373.39,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 5.37,
+    "rotation": 5.39,
+    "magnetic_field": 337.01,
+    "light": 254.89,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 27.65,
+    "rotation": 8.56,
+    "magnetic_field": 51.84,
+    "light": 226.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 48.92,
+    "rotation": 0.75,
+    "magnetic_field": 97.14,
+    "light": 109.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 46.14,
+    "rotation": 3.55,
+    "magnetic_field": 106.98,
+    "light": 309.15,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 30.97,
+    "rotation": 9.56,
+    "magnetic_field": 334.09,
+    "light": 323.66,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 44.07,
+    "rotation": 5.06,
+    "magnetic_field": 45.54,
+    "light": 357.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.61,
+    "rotation": 0.74,
+    "magnetic_field": 302.92,
+    "light": 51.65,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 1.49,
+    "rotation": 1.74,
+    "magnetic_field": 60.37,
+    "light": 300.46,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 125.83,
+    "rotation": 16.82,
+    "magnetic_field": 446.66,
+    "light": 460.13,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 25.7,
+    "rotation": 4.65,
+    "magnetic_field": 375.87,
+    "light": 118.9,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.23,
+    "rotation": 2.11,
+    "magnetic_field": 147.24,
+    "light": 14.09,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.38,
+    "rotation": 3.02,
+    "magnetic_field": 327.04,
+    "light": 380.28,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 107.3,
+    "rotation": 19.91,
+    "magnetic_field": 506.52,
+    "light": 584.63,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 2.44,
+    "rotation": 9.77,
+    "magnetic_field": 192.99,
+    "light": 203.58,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 73.15,
+    "rotation": 6.17,
+    "magnetic_field": 216.63,
+    "light": 131.15,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.67,
+    "rotation": 5.42,
+    "magnetic_field": 280.26,
+    "light": 267.14,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.09,
+    "rotation": 7.74,
+    "magnetic_field": 201.65,
+    "light": 202.86,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.48,
+    "rotation": 6.59,
+    "magnetic_field": 81.48,
+    "light": 334.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 17.61,
+    "rotation": 4.96,
+    "magnetic_field": 273.1,
+    "light": 128.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.92,
+    "rotation": 6.87,
+    "magnetic_field": 264.75,
+    "light": 290.18,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 29.3,
+    "rotation": 3.29,
+    "magnetic_field": 356.22,
+    "light": 49.09,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 79.2,
+    "rotation": 7.47,
+    "magnetic_field": 324.41,
+    "light": 41.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 111.88,
+    "rotation": 10.61,
+    "magnetic_field": 526.21,
+    "light": 501.5,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 72.46,
+    "rotation": 7.46,
+    "magnetic_field": 171.59,
+    "light": 203.8,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 96.05,
+    "rotation": 13.19,
+    "magnetic_field": 554.16,
+    "light": 537.08,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 4.11,
+    "rotation": 5.39,
+    "magnetic_field": 22.84,
+    "light": 355.36,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 71.65,
+    "rotation": 9.02,
+    "magnetic_field": 253.67,
+    "light": 390.26,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 43.14,
+    "rotation": 6.64,
+    "magnetic_field": 299.55,
+    "light": 12.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 119.98,
+    "rotation": 17.02,
+    "magnetic_field": 542.91,
+    "light": 549.94,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 20.87,
+    "rotation": 3.17,
+    "magnetic_field": 383.45,
+    "light": 270.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 20.64,
+    "rotation": 0.95,
+    "magnetic_field": 375.58,
+    "light": 42.23,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 25.89,
+    "rotation": 8.19,
+    "magnetic_field": 273.2,
+    "light": 89.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.39,
+    "rotation": 0.43,
+    "magnetic_field": 48.61,
+    "light": 167.15,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 115.73,
+    "rotation": 15.06,
+    "magnetic_field": 535.1,
+    "light": 539.0,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 1.72,
+    "rotation": 8.29,
+    "magnetic_field": 330.68,
+    "light": 12.27,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 24.2,
+    "rotation": 4.47,
+    "magnetic_field": 88.17,
+    "light": 354.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.56,
+    "rotation": 0.02,
+    "magnetic_field": 272.14,
+    "light": 325.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.76,
+    "rotation": 3.46,
+    "magnetic_field": 40.39,
+    "light": 291.37,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.55,
+    "rotation": 4.03,
+    "magnetic_field": 329.67,
+    "light": 240.24,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 37.34,
+    "rotation": 3.09,
+    "magnetic_field": 352.3,
+    "light": 383.14,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 67.24,
+    "rotation": 7.2,
+    "magnetic_field": 209.05,
+    "light": 118.97,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 26.85,
+    "rotation": 5.6,
+    "magnetic_field": 35.19,
+    "light": 225.22,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 146.18,
+    "rotation": 12.7,
+    "magnetic_field": 470.2,
+    "light": 596.35,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 21.79,
+    "rotation": 6.49,
+    "magnetic_field": 285.19,
+    "light": 230.37,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.09,
+    "rotation": 5.92,
+    "magnetic_field": 346.9,
+    "light": 371.54,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 39.43,
+    "rotation": 5.13,
+    "magnetic_field": 208.59,
+    "light": 355.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 133.77,
+    "rotation": 18.13,
+    "magnetic_field": 537.37,
+    "light": 521.23,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 48.93,
+    "rotation": 0.15,
+    "magnetic_field": 261.93,
+    "light": 161.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.41,
+    "rotation": 2.41,
+    "magnetic_field": 276.17,
+    "light": 271.25,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 61.27,
+    "rotation": 4.74,
+    "magnetic_field": 121.03,
+    "light": 205.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 51.02,
+    "rotation": 3.19,
+    "magnetic_field": 114.11,
+    "light": 19.12,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 4.26,
+    "rotation": 5.02,
+    "magnetic_field": 178.08,
+    "light": 158.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 133.71,
+    "rotation": 11.8,
+    "magnetic_field": 467.16,
+    "light": 439.33,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 74.88,
+    "rotation": 6.75,
+    "magnetic_field": 173.57,
+    "light": 1.8,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 27.87,
+    "rotation": 2.42,
+    "magnetic_field": 90.19,
+    "light": 385.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.96,
+    "rotation": 2.44,
+    "magnetic_field": 361.19,
+    "light": 4.77,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.27,
+    "rotation": 4.15,
+    "magnetic_field": 73.34,
+    "light": 92.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.86,
+    "rotation": 2.38,
+    "magnetic_field": 131.77,
+    "light": 305.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 125.35,
+    "rotation": 11.61,
+    "magnetic_field": 459.73,
+    "light": 410.93,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 12.36,
+    "rotation": 6.05,
+    "magnetic_field": 196.69,
+    "light": 262.34,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 28.9,
+    "rotation": 3.01,
+    "magnetic_field": 385.53,
+    "light": 332.28,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 118.33,
+    "rotation": 17.3,
+    "magnetic_field": 436.63,
+    "light": 450.94,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 87.35,
+    "rotation": 18.6,
+    "magnetic_field": 525.68,
+    "light": 413.11,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 42.72,
+    "rotation": 8.23,
+    "magnetic_field": 201.54,
+    "light": 364.04,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 3.83,
+    "rotation": 0.62,
+    "magnetic_field": 21.52,
+    "light": 36.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 134.4,
+    "rotation": 11.44,
+    "magnetic_field": 417.45,
+    "light": 575.44,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 135.34,
+    "rotation": 13.01,
+    "magnetic_field": 543.24,
+    "light": 511.96,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 25.3,
+    "rotation": 3.93,
+    "magnetic_field": 182.38,
+    "light": 42.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 70.03,
+    "rotation": 9.87,
+    "magnetic_field": 145.38,
+    "light": 19.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.84,
+    "rotation": 5.45,
+    "magnetic_field": 390.05,
+    "light": 251.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 10.17,
+    "rotation": 5.47,
+    "magnetic_field": 45.99,
+    "light": 337.24,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 19.55,
+    "rotation": 0.22,
+    "magnetic_field": 228.28,
+    "light": 120.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 85.63,
+    "rotation": 13.86,
+    "magnetic_field": 484.08,
+    "light": 489.58,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 40.2,
+    "rotation": 5.58,
+    "magnetic_field": 373.52,
+    "light": 243.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.41,
+    "rotation": 6.48,
+    "magnetic_field": 281.63,
+    "light": 174.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.39,
+    "rotation": 6.92,
+    "magnetic_field": 31.5,
+    "light": 202.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 54.11,
+    "rotation": 5.86,
+    "magnetic_field": 269.09,
+    "light": 166.8,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.07,
+    "rotation": 8.99,
+    "magnetic_field": 237.76,
+    "light": 96.77,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 10.42,
+    "rotation": 5.58,
+    "magnetic_field": 231.7,
+    "light": 218.26,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 76.87,
+    "rotation": 1.54,
+    "magnetic_field": 123.48,
+    "light": 379.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 0.63,
+    "rotation": 7.17,
+    "magnetic_field": 218.31,
+    "light": 293.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.03,
+    "rotation": 8.9,
+    "magnetic_field": 23.85,
+    "light": 65.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 58.97,
+    "rotation": 3.2,
+    "magnetic_field": 242.5,
+    "light": 240.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.52,
+    "rotation": 7.31,
+    "magnetic_field": 335.43,
+    "light": 265.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 25.14,
+    "rotation": 3.81,
+    "magnetic_field": 282.97,
+    "light": 243.98,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 70.8,
+    "rotation": 2.56,
+    "magnetic_field": 125.85,
+    "light": 78.45,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 56.69,
+    "rotation": 3.51,
+    "magnetic_field": 201.35,
+    "light": 224.8,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 69.27,
+    "rotation": 3.63,
+    "magnetic_field": 317.43,
+    "light": 164.24,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 39.5,
+    "rotation": 1.2,
+    "magnetic_field": 186.62,
+    "light": 93.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 64.49,
+    "rotation": 9.88,
+    "magnetic_field": 346.01,
+    "light": 128.46,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 83.89,
+    "rotation": 14.68,
+    "magnetic_field": 420.98,
+    "light": 567.65,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 18.36,
+    "rotation": 6.04,
+    "magnetic_field": 177.64,
+    "light": 273.22,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.98,
+    "rotation": 7.2,
+    "magnetic_field": 148.06,
+    "light": 14.09,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 146.29,
+    "rotation": 17.29,
+    "magnetic_field": 454.11,
+    "light": 484.96,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 20.36,
+    "rotation": 8.0,
+    "magnetic_field": 288.44,
+    "light": 70.12,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 29.98,
+    "rotation": 5.11,
+    "magnetic_field": 73.71,
+    "light": 284.18,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 30.13,
+    "rotation": 1.5,
+    "magnetic_field": 218.18,
+    "light": 348.01,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 79.39,
+    "rotation": 7.88,
+    "magnetic_field": 52.41,
+    "light": 398.82,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 143.01,
+    "rotation": 10.37,
+    "magnetic_field": 434.95,
+    "light": 505.05,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 61.9,
+    "rotation": 6.96,
+    "magnetic_field": 105.06,
+    "light": 175.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 27.0,
+    "rotation": 1.33,
+    "magnetic_field": 131.15,
+    "light": 393.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.61,
+    "rotation": 3.05,
+    "magnetic_field": 310.49,
+    "light": 389.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 148.07,
+    "rotation": 15.11,
+    "magnetic_field": 551.75,
+    "light": 446.81,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 50.44,
+    "rotation": 6.65,
+    "magnetic_field": 309.95,
+    "light": 234.67,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 7.44,
+    "rotation": 2.14,
+    "magnetic_field": 317.48,
+    "light": 290.81,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.04,
+    "rotation": 2.67,
+    "magnetic_field": 380.59,
+    "light": 340.91,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 44.38,
+    "rotation": 9.92,
+    "magnetic_field": 22.74,
+    "light": 71.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.66,
+    "rotation": 8.89,
+    "magnetic_field": 226.0,
+    "light": 21.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 112.97,
+    "rotation": 13.31,
+    "magnetic_field": 433.04,
+    "light": 495.69,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 33.02,
+    "rotation": 9.12,
+    "magnetic_field": 49.87,
+    "light": 347.46,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 56.68,
+    "rotation": 4.53,
+    "magnetic_field": 111.84,
+    "light": 89.49,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 114.0,
+    "rotation": 13.78,
+    "magnetic_field": 531.98,
+    "light": 511.2,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 68.04,
+    "rotation": 0.33,
+    "magnetic_field": 123.38,
+    "light": 91.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 90.05,
+    "rotation": 15.09,
+    "magnetic_field": 449.91,
+    "light": 415.87,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 144.55,
+    "rotation": 13.91,
+    "magnetic_field": 441.82,
+    "light": 572.25,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 31.77,
+    "rotation": 2.38,
+    "magnetic_field": 390.12,
+    "light": 204.96,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.21,
+    "rotation": 5.97,
+    "magnetic_field": 314.28,
+    "light": 24.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.57,
+    "rotation": 8.21,
+    "magnetic_field": 102.57,
+    "light": 268.69,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 51.34,
+    "rotation": 6.82,
+    "magnetic_field": 194.24,
+    "light": 386.49,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 5.72,
+    "rotation": 1.34,
+    "magnetic_field": 373.85,
+    "light": 377.34,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.38,
+    "rotation": 9.35,
+    "magnetic_field": 252.26,
+    "light": 229.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.33,
+    "rotation": 3.06,
+    "magnetic_field": 381.05,
+    "light": 2.85,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 16.39,
+    "rotation": 1.74,
+    "magnetic_field": 239.62,
+    "light": 161.01,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.66,
+    "rotation": 9.44,
+    "magnetic_field": 173.89,
+    "light": 10.78,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 66.15,
+    "rotation": 6.45,
+    "magnetic_field": 324.79,
+    "light": 181.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 4.8,
+    "rotation": 8.56,
+    "magnetic_field": 285.43,
+    "light": 358.55,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 44.55,
+    "rotation": 8.94,
+    "magnetic_field": 393.55,
+    "light": 365.49,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 48.89,
+    "rotation": 2.75,
+    "magnetic_field": 148.03,
+    "light": 157.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 24.9,
+    "rotation": 4.45,
+    "magnetic_field": 233.07,
+    "light": 47.85,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.71,
+    "rotation": 3.61,
+    "magnetic_field": 384.34,
+    "light": 137.06,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 131.35,
+    "rotation": 15.51,
+    "magnetic_field": 448.67,
+    "light": 565.63,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 61.93,
+    "rotation": 8.9,
+    "magnetic_field": 61.84,
+    "light": 153.56,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 88.26,
+    "rotation": 18.06,
+    "magnetic_field": 535.22,
+    "light": 510.48,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 52.26,
+    "rotation": 3.41,
+    "magnetic_field": 362.23,
+    "light": 182.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 137.81,
+    "rotation": 16.17,
+    "magnetic_field": 436.76,
+    "light": 595.25,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 22.13,
+    "rotation": 3.7,
+    "magnetic_field": 67.24,
+    "light": 86.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.96,
+    "rotation": 0.5,
+    "magnetic_field": 112.99,
+    "light": 176.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 53.74,
+    "rotation": 0.5,
+    "magnetic_field": 284.18,
+    "light": 347.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.84,
+    "rotation": 2.76,
+    "magnetic_field": 31.47,
+    "light": 62.58,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 99.39,
+    "rotation": 18.96,
+    "magnetic_field": 600.0,
+    "light": 435.8,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 22.01,
+    "rotation": 1.38,
+    "magnetic_field": 117.3,
+    "light": 125.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 9.21,
+    "rotation": 5.62,
+    "magnetic_field": 320.54,
+    "light": 308.9,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 78.8,
+    "rotation": 7.71,
+    "magnetic_field": 285.91,
+    "light": 215.81,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 1.59,
+    "rotation": 8.53,
+    "magnetic_field": 168.13,
+    "light": 294.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.04,
+    "rotation": 1.08,
+    "magnetic_field": 122.21,
+    "light": 279.11,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 92.83,
+    "rotation": 19.55,
+    "magnetic_field": 436.66,
+    "light": 523.69,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 57.37,
+    "rotation": 1.51,
+    "magnetic_field": 282.31,
+    "light": 268.74,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 28.0,
+    "rotation": 9.41,
+    "magnetic_field": 92.9,
+    "light": 342.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.93,
+    "rotation": 9.45,
+    "magnetic_field": 104.86,
+    "light": 217.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 68.52,
+    "rotation": 6.15,
+    "magnetic_field": 107.54,
+    "light": 223.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 70.17,
+    "rotation": 7.58,
+    "magnetic_field": 345.37,
+    "light": 72.01,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 4.04,
+    "rotation": 1.62,
+    "magnetic_field": 126.37,
+    "light": 95.42,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 30.18,
+    "rotation": 8.81,
+    "magnetic_field": 211.27,
+    "light": 293.36,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.39,
+    "rotation": 9.57,
+    "magnetic_field": 320.48,
+    "light": 245.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 136.51,
+    "rotation": 18.0,
+    "magnetic_field": 438.46,
+    "light": 587.89,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 136.94,
+    "rotation": 10.07,
+    "magnetic_field": 577.52,
+    "light": 536.59,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 42.6,
+    "rotation": 5.39,
+    "magnetic_field": 199.35,
+    "light": 324.86,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.81,
+    "rotation": 1.8,
+    "magnetic_field": 269.62,
+    "light": 46.23,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 25.37,
+    "rotation": 7.32,
+    "magnetic_field": 339.14,
+    "light": 170.85,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 25.26,
+    "rotation": 6.25,
+    "magnetic_field": 298.35,
+    "light": 197.67,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 78.38,
+    "rotation": 4.99,
+    "magnetic_field": 200.1,
+    "light": 199.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 39.59,
+    "rotation": 8.36,
+    "magnetic_field": 34.35,
+    "light": 195.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 28.54,
+    "rotation": 3.91,
+    "magnetic_field": 162.36,
+    "light": 378.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.32,
+    "rotation": 2.62,
+    "magnetic_field": 278.31,
+    "light": 186.82,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 112.13,
+    "rotation": 17.23,
+    "magnetic_field": 466.2,
+    "light": 409.14,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 74.16,
+    "rotation": 5.53,
+    "magnetic_field": 192.71,
+    "light": 33.42,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 128.55,
+    "rotation": 13.11,
+    "magnetic_field": 488.09,
+    "light": 463.35,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 39.38,
+    "rotation": 7.67,
+    "magnetic_field": 331.88,
+    "light": 266.96,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 69.08,
+    "rotation": 1.83,
+    "magnetic_field": 89.09,
+    "light": 293.25,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.83,
+    "rotation": 7.84,
+    "magnetic_field": 331.84,
+    "light": 299.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 35.79,
+    "rotation": 2.26,
+    "magnetic_field": 340.58,
+    "light": 265.94,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 61.58,
+    "rotation": 1.14,
+    "magnetic_field": 337.96,
+    "light": 98.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 19.29,
+    "rotation": 0.02,
+    "magnetic_field": 319.16,
+    "light": 143.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 146.02,
+    "rotation": 19.87,
+    "magnetic_field": 423.19,
+    "light": 536.54,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 28.86,
+    "rotation": 1.22,
+    "magnetic_field": 216.36,
+    "light": 210.26,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 14.45,
+    "rotation": 9.18,
+    "magnetic_field": 203.47,
+    "light": 219.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.85,
+    "rotation": 7.37,
+    "magnetic_field": 303.06,
+    "light": 360.19,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.75,
+    "rotation": 7.93,
+    "magnetic_field": 159.99,
+    "light": 91.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.95,
+    "rotation": 1.95,
+    "magnetic_field": 309.78,
+    "light": 353.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 39.13,
+    "rotation": 9.74,
+    "magnetic_field": 76.25,
+    "light": 250.06,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.63,
+    "rotation": 3.92,
+    "magnetic_field": 232.57,
+    "light": 221.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 1.89,
+    "rotation": 0.41,
+    "magnetic_field": 107.17,
+    "light": 63.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 147.16,
+    "rotation": 12.64,
+    "magnetic_field": 583.87,
+    "light": 534.51,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 35.41,
+    "rotation": 6.2,
+    "magnetic_field": 121.75,
+    "light": 315.97,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 52.46,
+    "rotation": 6.53,
+    "magnetic_field": 339.03,
+    "light": 322.74,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.67,
+    "rotation": 6.47,
+    "magnetic_field": 133.32,
+    "light": 112.8,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 108.21,
+    "rotation": 17.38,
+    "magnetic_field": 459.26,
+    "light": 599.43,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 60.87,
+    "rotation": 4.43,
+    "magnetic_field": 260.03,
+    "light": 102.27,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 65.92,
+    "rotation": 9.38,
+    "magnetic_field": 182.87,
+    "light": 247.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 48.24,
+    "rotation": 4.18,
+    "magnetic_field": 339.36,
+    "light": 121.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 28.43,
+    "rotation": 2.7,
+    "magnetic_field": 84.24,
+    "light": 83.3,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 1.31,
+    "rotation": 1.83,
+    "magnetic_field": 271.64,
+    "light": 40.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 47.48,
+    "rotation": 2.19,
+    "magnetic_field": 85.6,
+    "light": 155.48,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 125.82,
+    "rotation": 11.4,
+    "magnetic_field": 510.83,
+    "light": 495.78,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 48.07,
+    "rotation": 5.09,
+    "magnetic_field": 56.19,
+    "light": 387.27,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.88,
+    "rotation": 7.94,
+    "magnetic_field": 83.2,
+    "light": 7.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 35.36,
+    "rotation": 3.43,
+    "magnetic_field": 317.74,
+    "light": 162.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 7.71,
+    "rotation": 4.58,
+    "magnetic_field": 382.65,
+    "light": 253.74,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 38.59,
+    "rotation": 1.81,
+    "magnetic_field": 225.76,
+    "light": 61.66,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 66.42,
+    "rotation": 4.58,
+    "magnetic_field": 144.04,
+    "light": 260.45,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 37.19,
+    "rotation": 0.09,
+    "magnetic_field": 239.06,
+    "light": 90.93,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 127.01,
+    "rotation": 11.8,
+    "magnetic_field": 464.12,
+    "light": 539.7,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 56.43,
+    "rotation": 2.84,
+    "magnetic_field": 70.84,
+    "light": 250.22,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.07,
+    "rotation": 8.47,
+    "magnetic_field": 350.57,
+    "light": 52.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.56,
+    "rotation": 3.51,
+    "magnetic_field": 137.06,
+    "light": 148.06,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.4,
+    "rotation": 6.74,
+    "magnetic_field": 217.88,
+    "light": 378.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 58.15,
+    "rotation": 7.22,
+    "magnetic_field": 206.61,
+    "light": 43.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 100.52,
+    "rotation": 18.11,
+    "magnetic_field": 564.54,
+    "light": 426.74,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 79.97,
+    "rotation": 4.27,
+    "magnetic_field": 219.67,
+    "light": 365.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.0,
+    "rotation": 2.69,
+    "magnetic_field": 196.18,
+    "light": 121.51,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.5,
+    "rotation": 7.84,
+    "magnetic_field": 245.34,
+    "light": 339.36,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.87,
+    "rotation": 0.81,
+    "magnetic_field": 302.14,
+    "light": 102.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.43,
+    "rotation": 6.89,
+    "magnetic_field": 301.43,
+    "light": 43.57,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.55,
+    "rotation": 3.45,
+    "magnetic_field": 370.32,
+    "light": 101.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 107.4,
+    "rotation": 16.25,
+    "magnetic_field": 572.1,
+    "light": 574.25,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 11.95,
+    "rotation": 4.57,
+    "magnetic_field": 135.21,
+    "light": 306.24,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.81,
+    "rotation": 8.84,
+    "magnetic_field": 285.15,
+    "light": 247.57,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 121.56,
+    "rotation": 15.84,
+    "magnetic_field": 465.25,
+    "light": 402.3,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 79.64,
+    "rotation": 2.35,
+    "magnetic_field": 50.69,
+    "light": 287.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.91,
+    "rotation": 1.51,
+    "magnetic_field": 180.72,
+    "light": 2.89,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.42,
+    "rotation": 6.25,
+    "magnetic_field": 127.08,
+    "light": 208.91,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.89,
+    "rotation": 6.06,
+    "magnetic_field": 392.72,
+    "light": 126.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.96,
+    "rotation": 8.32,
+    "magnetic_field": 376.27,
+    "light": 301.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 24.61,
+    "rotation": 3.98,
+    "magnetic_field": 231.48,
+    "light": 275.73,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.75,
+    "rotation": 1.55,
+    "magnetic_field": 26.64,
+    "light": 239.74,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.48,
+    "rotation": 5.6,
+    "magnetic_field": 27.78,
+    "light": 397.4,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 98.01,
+    "rotation": 15.54,
+    "magnetic_field": 518.47,
+    "light": 499.01,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 10.71,
+    "rotation": 8.41,
+    "magnetic_field": 56.54,
+    "light": 388.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 139.55,
+    "rotation": 12.29,
+    "magnetic_field": 538.04,
+    "light": 459.19,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 31.5,
+    "rotation": 1.14,
+    "magnetic_field": 31.37,
+    "light": 294.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 26.69,
+    "rotation": 0.2,
+    "magnetic_field": 279.48,
+    "light": 167.19,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 54.87,
+    "rotation": 1.37,
+    "magnetic_field": 210.43,
+    "light": 88.85,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 14.86,
+    "rotation": 3.97,
+    "magnetic_field": 342.11,
+    "light": 399.01,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 14.13,
+    "rotation": 3.85,
+    "magnetic_field": 295.72,
+    "light": 242.72,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 64.11,
+    "rotation": 7.21,
+    "magnetic_field": 277.68,
+    "light": 389.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 66.16,
+    "rotation": 0.43,
+    "magnetic_field": 202.38,
+    "light": 208.17,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 30.69,
+    "rotation": 5.18,
+    "magnetic_field": 363.68,
+    "light": 119.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 10.9,
+    "rotation": 0.08,
+    "magnetic_field": 229.35,
+    "light": 158.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 51.94,
+    "rotation": 1.73,
+    "magnetic_field": 220.69,
+    "light": 340.12,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 5.38,
+    "rotation": 0.05,
+    "magnetic_field": 81.51,
+    "light": 329.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.43,
+    "rotation": 1.83,
+    "magnetic_field": 102.23,
+    "light": 265.71,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 46.06,
+    "rotation": 8.2,
+    "magnetic_field": 81.6,
+    "light": 361.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 130.09,
+    "rotation": 15.99,
+    "magnetic_field": 448.59,
+    "light": 584.76,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 29.12,
+    "rotation": 3.08,
+    "magnetic_field": 199.55,
+    "light": 60.05,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 1.21,
+    "rotation": 9.01,
+    "magnetic_field": 274.57,
+    "light": 67.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 118.27,
+    "rotation": 19.65,
+    "magnetic_field": 502.37,
+    "light": 538.47,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 103.41,
+    "rotation": 15.69,
+    "magnetic_field": 453.34,
+    "light": 496.29,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 52.63,
+    "rotation": 7.1,
+    "magnetic_field": 365.66,
+    "light": 354.46,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 66.86,
+    "rotation": 1.57,
+    "magnetic_field": 201.39,
+    "light": 212.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 3.13,
+    "rotation": 0.53,
+    "magnetic_field": 60.97,
+    "light": 197.8,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 17.72,
+    "rotation": 7.05,
+    "magnetic_field": 128.94,
+    "light": 181.34,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 55.63,
+    "rotation": 0.92,
+    "magnetic_field": 382.7,
+    "light": 53.42,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 145.26,
+    "rotation": 10.47,
+    "magnetic_field": 418.47,
+    "light": 589.4,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 44.35,
+    "rotation": 6.49,
+    "magnetic_field": 272.37,
+    "light": 386.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 5.54,
+    "rotation": 4.26,
+    "magnetic_field": 311.77,
+    "light": 300.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.61,
+    "rotation": 4.94,
+    "magnetic_field": 235.32,
+    "light": 0.56,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 87.83,
+    "rotation": 17.48,
+    "magnetic_field": 477.64,
+    "light": 493.9,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 15.17,
+    "rotation": 9.4,
+    "magnetic_field": 303.25,
+    "light": 98.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 5.71,
+    "rotation": 6.7,
+    "magnetic_field": 236.68,
+    "light": 302.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 48.74,
+    "rotation": 4.06,
+    "magnetic_field": 389.73,
+    "light": 104.56,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 141.31,
+    "rotation": 17.47,
+    "magnetic_field": 587.53,
+    "light": 474.33,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 33.82,
+    "rotation": 5.36,
+    "magnetic_field": 346.52,
+    "light": 13.91,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.31,
+    "rotation": 4.87,
+    "magnetic_field": 348.65,
+    "light": 150.94,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 146.53,
+    "rotation": 17.5,
+    "magnetic_field": 550.47,
+    "light": 583.44,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 69.72,
+    "rotation": 6.42,
+    "magnetic_field": 399.89,
+    "light": 93.0,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 32.9,
+    "rotation": 5.54,
+    "magnetic_field": 58.0,
+    "light": 374.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 64.81,
+    "rotation": 4.79,
+    "magnetic_field": 102.78,
+    "light": 383.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.14,
+    "rotation": 5.38,
+    "magnetic_field": 189.13,
+    "light": 306.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 133.24,
+    "rotation": 14.61,
+    "magnetic_field": 465.38,
+    "light": 419.65,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 4.11,
+    "rotation": 4.69,
+    "magnetic_field": 94.37,
+    "light": 164.08,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.51,
+    "rotation": 2.05,
+    "magnetic_field": 225.9,
+    "light": 395.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.72,
+    "rotation": 1.66,
+    "magnetic_field": 368.52,
+    "light": 45.26,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 17.83,
+    "rotation": 5.58,
+    "magnetic_field": 112.22,
+    "light": 259.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 7.02,
+    "rotation": 0.67,
+    "magnetic_field": 285.12,
+    "light": 25.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 7.65,
+    "rotation": 0.39,
+    "magnetic_field": 149.05,
+    "light": 171.37,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 67.56,
+    "rotation": 3.8,
+    "magnetic_field": 314.25,
+    "light": 139.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.55,
+    "rotation": 1.57,
+    "magnetic_field": 113.31,
+    "light": 33.57,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.44,
+    "rotation": 2.7,
+    "magnetic_field": 209.06,
+    "light": 294.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.59,
+    "rotation": 9.35,
+    "magnetic_field": 188.12,
+    "light": 165.05,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.45,
+    "rotation": 5.48,
+    "magnetic_field": 156.34,
+    "light": 199.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 76.74,
+    "rotation": 7.39,
+    "magnetic_field": 256.83,
+    "light": 204.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.96,
+    "rotation": 7.91,
+    "magnetic_field": 32.52,
+    "light": 182.05,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 19.82,
+    "rotation": 8.51,
+    "magnetic_field": 146.94,
+    "light": 281.97,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 48.15,
+    "rotation": 7.48,
+    "magnetic_field": 333.69,
+    "light": 357.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 25.76,
+    "rotation": 7.88,
+    "magnetic_field": 139.84,
+    "light": 376.41,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 68.9,
+    "rotation": 0.87,
+    "magnetic_field": 331.51,
+    "light": 228.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.93,
+    "rotation": 1.28,
+    "magnetic_field": 334.93,
+    "light": 100.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.68,
+    "rotation": 3.85,
+    "magnetic_field": 99.27,
+    "light": 55.34,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.2,
+    "rotation": 8.27,
+    "magnetic_field": 274.15,
+    "light": 168.78,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 33.63,
+    "rotation": 2.99,
+    "magnetic_field": 247.41,
+    "light": 244.91,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 136.14,
+    "rotation": 14.7,
+    "magnetic_field": 504.62,
+    "light": 502.5,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 27.31,
+    "rotation": 6.47,
+    "magnetic_field": 366.09,
+    "light": 157.04,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.88,
+    "rotation": 6.09,
+    "magnetic_field": 355.33,
+    "light": 323.82,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 67.0,
+    "rotation": 0.71,
+    "magnetic_field": 110.72,
+    "light": 264.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 66.54,
+    "rotation": 9.28,
+    "magnetic_field": 294.46,
+    "light": 172.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 53.46,
+    "rotation": 5.78,
+    "magnetic_field": 368.57,
+    "light": 224.42,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.86,
+    "rotation": 2.5,
+    "magnetic_field": 387.79,
+    "light": 45.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.77,
+    "rotation": 2.35,
+    "magnetic_field": 156.47,
+    "light": 122.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 59.26,
+    "rotation": 3.87,
+    "magnetic_field": 288.46,
+    "light": 163.66,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 71.3,
+    "rotation": 5.97,
+    "magnetic_field": 72.74,
+    "light": 157.53,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 136.5,
+    "rotation": 14.18,
+    "magnetic_field": 480.49,
+    "light": 421.24,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 53.3,
+    "rotation": 6.88,
+    "magnetic_field": 125.19,
+    "light": 15.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 47.72,
+    "rotation": 0.46,
+    "magnetic_field": 165.14,
+    "light": 54.97,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 67.4,
+    "rotation": 6.23,
+    "magnetic_field": 304.88,
+    "light": 158.55,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.25,
+    "rotation": 8.85,
+    "magnetic_field": 287.24,
+    "light": 342.48,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.65,
+    "rotation": 5.17,
+    "magnetic_field": 95.25,
+    "light": 346.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 64.67,
+    "rotation": 6.86,
+    "magnetic_field": 137.19,
+    "light": 5.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 90.87,
+    "rotation": 19.99,
+    "magnetic_field": 474.9,
+    "light": 560.98,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 62.58,
+    "rotation": 0.52,
+    "magnetic_field": 216.3,
+    "light": 213.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 95.36,
+    "rotation": 11.09,
+    "magnetic_field": 538.77,
+    "light": 582.28,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 19.3,
+    "rotation": 0.45,
+    "magnetic_field": 200.85,
+    "light": 44.36,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 142.93,
+    "rotation": 14.6,
+    "magnetic_field": 578.14,
+    "light": 508.4,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 53.1,
+    "rotation": 5.85,
+    "magnetic_field": 236.69,
+    "light": 384.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.07,
+    "rotation": 1.1,
+    "magnetic_field": 381.34,
+    "light": 374.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.9,
+    "rotation": 3.38,
+    "magnetic_field": 26.76,
+    "light": 201.09,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 37.65,
+    "rotation": 9.86,
+    "magnetic_field": 172.11,
+    "light": 24.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 143.48,
+    "rotation": 13.84,
+    "magnetic_field": 481.64,
+    "light": 487.34,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 71.59,
+    "rotation": 2.85,
+    "magnetic_field": 334.72,
+    "light": 328.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 95.75,
+    "rotation": 10.76,
+    "magnetic_field": 544.61,
+    "light": 591.1,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 19.28,
+    "rotation": 9.5,
+    "magnetic_field": 60.46,
+    "light": 258.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 25.67,
+    "rotation": 2.99,
+    "magnetic_field": 330.68,
+    "light": 167.71,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.81,
+    "rotation": 9.62,
+    "magnetic_field": 390.57,
+    "light": 75.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 24.32,
+    "rotation": 3.77,
+    "magnetic_field": 205.87,
+    "light": 169.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 32.7,
+    "rotation": 3.85,
+    "magnetic_field": 291.37,
+    "light": 206.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 141.02,
+    "rotation": 17.36,
+    "magnetic_field": 505.61,
+    "light": 444.96,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 132.89,
+    "rotation": 14.56,
+    "magnetic_field": 527.32,
+    "light": 522.41,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 27.02,
+    "rotation": 7.48,
+    "magnetic_field": 106.07,
+    "light": 385.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 27.45,
+    "rotation": 5.85,
+    "magnetic_field": 273.67,
+    "light": 82.94,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.1,
+    "rotation": 5.23,
+    "magnetic_field": 383.49,
+    "light": 305.17,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.32,
+    "rotation": 9.73,
+    "magnetic_field": 353.18,
+    "light": 327.91,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 22.81,
+    "rotation": 1.09,
+    "magnetic_field": 220.57,
+    "light": 197.22,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 6.42,
+    "rotation": 4.89,
+    "magnetic_field": 308.07,
+    "light": 274.66,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 53.55,
+    "rotation": 3.45,
+    "magnetic_field": 49.69,
+    "light": 181.93,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 48.0,
+    "rotation": 1.76,
+    "magnetic_field": 101.85,
+    "light": 156.89,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.54,
+    "rotation": 0.8,
+    "magnetic_field": 66.45,
+    "light": 226.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 104.04,
+    "rotation": 12.78,
+    "magnetic_field": 478.31,
+    "light": 443.39,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 69.56,
+    "rotation": 5.08,
+    "magnetic_field": 245.15,
+    "light": 224.3,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.7,
+    "rotation": 9.22,
+    "magnetic_field": 388.3,
+    "light": 45.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 143.4,
+    "rotation": 18.94,
+    "magnetic_field": 576.47,
+    "light": 546.65,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 133.12,
+    "rotation": 18.58,
+    "magnetic_field": 491.71,
+    "light": 526.85,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 62.16,
+    "rotation": 8.03,
+    "magnetic_field": 387.6,
+    "light": 362.97,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 56.18,
+    "rotation": 5.05,
+    "magnetic_field": 69.67,
+    "light": 55.9,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 38.84,
+    "rotation": 4.98,
+    "magnetic_field": 331.1,
+    "light": 0.53,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.03,
+    "rotation": 3.37,
+    "magnetic_field": 210.14,
+    "light": 299.19,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.95,
+    "rotation": 8.35,
+    "magnetic_field": 128.02,
+    "light": 152.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.57,
+    "rotation": 7.69,
+    "magnetic_field": 325.76,
+    "light": 195.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.11,
+    "rotation": 2.71,
+    "magnetic_field": 252.11,
+    "light": 359.48,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.79,
+    "rotation": 0.16,
+    "magnetic_field": 125.74,
+    "light": 59.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 22.61,
+    "rotation": 5.34,
+    "magnetic_field": 32.36,
+    "light": 37.69,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 26.78,
+    "rotation": 8.45,
+    "magnetic_field": 156.97,
+    "light": 206.51,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 22.62,
+    "rotation": 4.31,
+    "magnetic_field": 391.88,
+    "light": 23.45,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 38.36,
+    "rotation": 6.65,
+    "magnetic_field": 119.71,
+    "light": 360.37,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 66.91,
+    "rotation": 4.43,
+    "magnetic_field": 326.7,
+    "light": 169.34,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 76.93,
+    "rotation": 4.66,
+    "magnetic_field": 142.77,
+    "light": 287.77,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 69.83,
+    "rotation": 0.14,
+    "magnetic_field": 109.93,
+    "light": 101.67,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 46.09,
+    "rotation": 4.91,
+    "magnetic_field": 58.02,
+    "light": 74.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 0.26,
+    "rotation": 3.91,
+    "magnetic_field": 32.13,
+    "light": 217.45,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.06,
+    "rotation": 4.19,
+    "magnetic_field": 80.15,
+    "light": 129.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.14,
+    "rotation": 3.13,
+    "magnetic_field": 346.06,
+    "light": 78.58,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 0.89,
+    "rotation": 8.22,
+    "magnetic_field": 150.33,
+    "light": 259.39,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 13.16,
+    "rotation": 5.67,
+    "magnetic_field": 44.47,
+    "light": 263.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 3.71,
+    "rotation": 4.39,
+    "magnetic_field": 20.6,
+    "light": 389.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 62.22,
+    "rotation": 2.48,
+    "magnetic_field": 94.25,
+    "light": 265.47,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 19.85,
+    "rotation": 3.48,
+    "magnetic_field": 107.24,
+    "light": 160.74,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 6.81,
+    "rotation": 4.31,
+    "magnetic_field": 119.16,
+    "light": 372.16,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 22.77,
+    "rotation": 6.88,
+    "magnetic_field": 191.4,
+    "light": 178.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.85,
+    "rotation": 1.81,
+    "magnetic_field": 277.23,
+    "light": 259.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.94,
+    "rotation": 7.54,
+    "magnetic_field": 245.09,
+    "light": 380.11,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 44.51,
+    "rotation": 6.13,
+    "magnetic_field": 380.42,
+    "light": 335.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 68.54,
+    "rotation": 8.75,
+    "magnetic_field": 81.6,
+    "light": 380.23,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.45,
+    "rotation": 6.39,
+    "magnetic_field": 196.61,
+    "light": 230.82,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.55,
+    "rotation": 7.52,
+    "magnetic_field": 346.27,
+    "light": 149.76,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 61.8,
+    "rotation": 0.88,
+    "magnetic_field": 387.81,
+    "light": 264.41,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.59,
+    "rotation": 1.71,
+    "magnetic_field": 104.33,
+    "light": 86.71,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 46.49,
+    "rotation": 1.49,
+    "magnetic_field": 258.32,
+    "light": 66.16,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 76.05,
+    "rotation": 7.78,
+    "magnetic_field": 202.56,
+    "light": 26.36,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 35.08,
+    "rotation": 5.46,
+    "magnetic_field": 337.93,
+    "light": 23.86,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.97,
+    "rotation": 3.92,
+    "magnetic_field": 186.12,
+    "light": 333.04,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.14,
+    "rotation": 3.33,
+    "magnetic_field": 47.12,
+    "light": 4.98,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 51.3,
+    "rotation": 2.78,
+    "magnetic_field": 331.66,
+    "light": 192.9,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 138.95,
+    "rotation": 12.91,
+    "magnetic_field": 439.33,
+    "light": 578.21,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 105.88,
+    "rotation": 13.78,
+    "magnetic_field": 469.64,
+    "light": 403.01,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 22.32,
+    "rotation": 4.75,
+    "magnetic_field": 159.01,
+    "light": 91.36,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.93,
+    "rotation": 2.88,
+    "magnetic_field": 63.63,
+    "light": 213.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 83.02,
+    "rotation": 14.99,
+    "magnetic_field": 428.79,
+    "light": 433.23,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 20.67,
+    "rotation": 8.46,
+    "magnetic_field": 369.74,
+    "light": 314.96,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 24.22,
+    "rotation": 6.74,
+    "magnetic_field": 132.25,
+    "light": 88.98,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.98,
+    "rotation": 5.37,
+    "magnetic_field": 323.16,
+    "light": 326.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.81,
+    "rotation": 3.85,
+    "magnetic_field": 273.04,
+    "light": 55.55,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.96,
+    "rotation": 1.9,
+    "magnetic_field": 47.42,
+    "light": 314.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 117.22,
+    "rotation": 11.69,
+    "magnetic_field": 529.09,
+    "light": 433.93,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 65.08,
+    "rotation": 5.43,
+    "magnetic_field": 360.49,
+    "light": 35.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.07,
+    "rotation": 2.52,
+    "magnetic_field": 62.25,
+    "light": 362.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 139.35,
+    "rotation": 19.6,
+    "magnetic_field": 471.06,
+    "light": 556.83,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 10.38,
+    "rotation": 4.88,
+    "magnetic_field": 27.3,
+    "light": 208.78,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 20.21,
+    "rotation": 6.24,
+    "magnetic_field": 150.98,
+    "light": 208.73,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 33.15,
+    "rotation": 2.37,
+    "magnetic_field": 298.02,
+    "light": 300.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 86.74,
+    "rotation": 17.83,
+    "magnetic_field": 403.56,
+    "light": 411.38,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 81.95,
+    "rotation": 15.75,
+    "magnetic_field": 520.84,
+    "light": 577.02,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 24.5,
+    "rotation": 9.58,
+    "magnetic_field": 132.9,
+    "light": 42.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 37.14,
+    "rotation": 0.73,
+    "magnetic_field": 221.8,
+    "light": 301.72,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 18.58,
+    "rotation": 0.26,
+    "magnetic_field": 280.73,
+    "light": 239.65,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 54.72,
+    "rotation": 6.46,
+    "magnetic_field": 187.26,
+    "light": 337.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.48,
+    "rotation": 4.06,
+    "magnetic_field": 164.71,
+    "light": 160.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.32,
+    "rotation": 0.52,
+    "magnetic_field": 311.27,
+    "light": 129.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 3.19,
+    "rotation": 3.83,
+    "magnetic_field": 252.55,
+    "light": 380.71,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 88.26,
+    "rotation": 15.47,
+    "magnetic_field": 513.24,
+    "light": 445.89,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 72.59,
+    "rotation": 2.38,
+    "magnetic_field": 316.94,
+    "light": 132.35,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.44,
+    "rotation": 1.12,
+    "magnetic_field": 383.19,
+    "light": 131.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.36,
+    "rotation": 1.93,
+    "magnetic_field": 386.41,
+    "light": 250.51,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 67.75,
+    "rotation": 1.7,
+    "magnetic_field": 105.65,
+    "light": 106.57,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 64.76,
+    "rotation": 1.42,
+    "magnetic_field": 341.02,
+    "light": 344.04,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.63,
+    "rotation": 7.1,
+    "magnetic_field": 179.31,
+    "light": 19.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 33.25,
+    "rotation": 5.81,
+    "magnetic_field": 279.94,
+    "light": 10.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 38.75,
+    "rotation": 7.83,
+    "magnetic_field": 323.96,
+    "light": 333.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 27.4,
+    "rotation": 5.04,
+    "magnetic_field": 383.5,
+    "light": 57.97,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 8.19,
+    "rotation": 6.36,
+    "magnetic_field": 273.95,
+    "light": 384.34,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.06,
+    "rotation": 3.34,
+    "magnetic_field": 238.41,
+    "light": 171.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 52.49,
+    "rotation": 1.33,
+    "magnetic_field": 212.69,
+    "light": 285.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 14.3,
+    "rotation": 6.79,
+    "magnetic_field": 136.87,
+    "light": 278.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 4.74,
+    "rotation": 0.3,
+    "magnetic_field": 374.7,
+    "light": 94.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 3.31,
+    "rotation": 0.89,
+    "magnetic_field": 325.74,
+    "light": 230.51,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.61,
+    "rotation": 0.72,
+    "magnetic_field": 384.68,
+    "light": 155.28,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 68.64,
+    "rotation": 9.11,
+    "magnetic_field": 326.83,
+    "light": 75.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 46.89,
+    "rotation": 4.55,
+    "magnetic_field": 42.5,
+    "light": 11.58,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 10.31,
+    "rotation": 0.96,
+    "magnetic_field": 81.94,
+    "light": 215.85,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.62,
+    "rotation": 0.33,
+    "magnetic_field": 34.0,
+    "light": 200.9,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 7.88,
+    "rotation": 9.03,
+    "magnetic_field": 192.2,
+    "light": 309.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 29.07,
+    "rotation": 4.63,
+    "magnetic_field": 280.86,
+    "light": 174.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 14.98,
+    "rotation": 6.35,
+    "magnetic_field": 399.24,
+    "light": 390.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.68,
+    "rotation": 1.83,
+    "magnetic_field": 179.08,
+    "light": 240.16,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 90.85,
+    "rotation": 17.48,
+    "magnetic_field": 569.03,
+    "light": 513.04,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 32.28,
+    "rotation": 0.95,
+    "magnetic_field": 101.27,
+    "light": 87.11,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 5.64,
+    "rotation": 3.23,
+    "magnetic_field": 288.21,
+    "light": 351.19,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 67.55,
+    "rotation": 9.33,
+    "magnetic_field": 255.41,
+    "light": 248.73,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 122.22,
+    "rotation": 19.99,
+    "magnetic_field": 599.0,
+    "light": 445.82,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 27.56,
+    "rotation": 1.95,
+    "magnetic_field": 284.7,
+    "light": 84.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 19.46,
+    "rotation": 5.39,
+    "magnetic_field": 134.52,
+    "light": 180.82,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.29,
+    "rotation": 6.77,
+    "magnetic_field": 100.25,
+    "light": 253.53,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.93,
+    "rotation": 4.98,
+    "magnetic_field": 279.3,
+    "light": 288.42,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 79.13,
+    "rotation": 0.87,
+    "magnetic_field": 267.36,
+    "light": 174.4,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 60.79,
+    "rotation": 3.01,
+    "magnetic_field": 179.66,
+    "light": 3.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.36,
+    "rotation": 6.76,
+    "magnetic_field": 159.05,
+    "light": 267.29,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.02,
+    "rotation": 8.75,
+    "magnetic_field": 202.03,
+    "light": 364.55,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.81,
+    "rotation": 9.23,
+    "magnetic_field": 67.77,
+    "light": 117.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 27.91,
+    "rotation": 9.22,
+    "magnetic_field": 241.11,
+    "light": 107.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.81,
+    "rotation": 1.34,
+    "magnetic_field": 76.56,
+    "light": 341.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.61,
+    "rotation": 1.87,
+    "magnetic_field": 338.65,
+    "light": 222.71,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 32.57,
+    "rotation": 3.67,
+    "magnetic_field": 273.76,
+    "light": 186.1,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 91.82,
+    "rotation": 12.53,
+    "magnetic_field": 438.68,
+    "light": 423.79,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 30.91,
+    "rotation": 1.23,
+    "magnetic_field": 375.98,
+    "light": 124.37,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 9.19,
+    "rotation": 7.97,
+    "magnetic_field": 199.63,
+    "light": 276.01,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 108.36,
+    "rotation": 16.57,
+    "magnetic_field": 456.71,
+    "light": 407.68,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 62.57,
+    "rotation": 6.21,
+    "magnetic_field": 229.22,
+    "light": 126.39,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 135.5,
+    "rotation": 19.07,
+    "magnetic_field": 587.01,
+    "light": 560.0,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 134.06,
+    "rotation": 11.93,
+    "magnetic_field": 431.09,
+    "light": 581.83,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 69.27,
+    "rotation": 7.51,
+    "magnetic_field": 260.8,
+    "light": 106.74,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 79.65,
+    "rotation": 0.41,
+    "magnetic_field": 398.75,
+    "light": 131.5,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.06,
+    "rotation": 4.68,
+    "magnetic_field": 318.03,
+    "light": 161.71,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 8.53,
+    "rotation": 8.81,
+    "magnetic_field": 345.75,
+    "light": 296.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 107.06,
+    "rotation": 18.43,
+    "magnetic_field": 579.67,
+    "light": 557.45,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 70.92,
+    "rotation": 2.58,
+    "magnetic_field": 132.12,
+    "light": 247.1,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 69.06,
+    "rotation": 2.37,
+    "magnetic_field": 305.38,
+    "light": 142.1,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.9,
+    "rotation": 1.54,
+    "magnetic_field": 391.54,
+    "light": 146.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 6.59,
+    "rotation": 7.45,
+    "magnetic_field": 20.12,
+    "light": 310.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 121.76,
+    "rotation": 17.04,
+    "magnetic_field": 509.52,
+    "light": 449.83,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 85.7,
+    "rotation": 17.03,
+    "magnetic_field": 446.3,
+    "light": 514.27,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 7.35,
+    "rotation": 9.9,
+    "magnetic_field": 299.39,
+    "light": 294.42,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 32.16,
+    "rotation": 5.0,
+    "magnetic_field": 311.11,
+    "light": 50.46,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.25,
+    "rotation": 8.15,
+    "magnetic_field": 195.61,
+    "light": 92.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 51.07,
+    "rotation": 9.66,
+    "magnetic_field": 384.74,
+    "light": 65.3,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 128.52,
+    "rotation": 13.87,
+    "magnetic_field": 441.59,
+    "light": 572.11,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 143.93,
+    "rotation": 11.88,
+    "magnetic_field": 458.94,
+    "light": 411.38,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 22.37,
+    "rotation": 6.06,
+    "magnetic_field": 284.04,
+    "light": 151.25,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 64.99,
+    "rotation": 1.55,
+    "magnetic_field": 294.13,
+    "light": 20.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 36.65,
+    "rotation": 6.32,
+    "magnetic_field": 93.89,
+    "light": 271.41,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.5,
+    "rotation": 6.71,
+    "magnetic_field": 305.78,
+    "light": 287.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 58.75,
+    "rotation": 8.98,
+    "magnetic_field": 276.58,
+    "light": 224.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 79.73,
+    "rotation": 2.04,
+    "magnetic_field": 207.9,
+    "light": 146.35,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 123.72,
+    "rotation": 12.56,
+    "magnetic_field": 466.28,
+    "light": 434.38,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 138.63,
+    "rotation": 13.74,
+    "magnetic_field": 441.82,
+    "light": 543.65,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 59.34,
+    "rotation": 9.03,
+    "magnetic_field": 84.31,
+    "light": 30.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 3.17,
+    "rotation": 6.37,
+    "magnetic_field": 189.08,
+    "light": 387.25,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 32.83,
+    "rotation": 2.13,
+    "magnetic_field": 157.17,
+    "light": 306.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.21,
+    "rotation": 3.54,
+    "magnetic_field": 280.03,
+    "light": 300.07,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.64,
+    "rotation": 0.1,
+    "magnetic_field": 37.38,
+    "light": 125.23,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.33,
+    "rotation": 0.22,
+    "magnetic_field": 327.25,
+    "light": 148.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 62.49,
+    "rotation": 2.79,
+    "magnetic_field": 342.4,
+    "light": 289.72,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 40.98,
+    "rotation": 7.49,
+    "magnetic_field": 74.08,
+    "light": 375.91,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.69,
+    "rotation": 7.59,
+    "magnetic_field": 134.84,
+    "light": 49.37,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 23.26,
+    "rotation": 3.78,
+    "magnetic_field": 232.24,
+    "light": 184.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 93.37,
+    "rotation": 14.91,
+    "magnetic_field": 427.0,
+    "light": 445.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.91,
+    "rotation": 1.24,
+    "magnetic_field": 195.06,
+    "light": 157.07,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 4.09,
+    "rotation": 5.96,
+    "magnetic_field": 215.29,
+    "light": 382.09,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 16.77,
+    "rotation": 0.24,
+    "magnetic_field": 384.38,
+    "light": 111.89,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.71,
+    "rotation": 4.49,
+    "magnetic_field": 206.56,
+    "light": 351.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 84.38,
+    "rotation": 12.13,
+    "magnetic_field": 467.62,
+    "light": 564.18,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 65.06,
+    "rotation": 9.85,
+    "magnetic_field": 289.39,
+    "light": 54.77,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 19.9,
+    "rotation": 7.69,
+    "magnetic_field": 79.55,
+    "light": 85.12,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 54.93,
+    "rotation": 6.37,
+    "magnetic_field": 100.96,
+    "light": 212.21,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 59.76,
+    "rotation": 7.36,
+    "magnetic_field": 197.62,
+    "light": 276.23,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 93.78,
+    "rotation": 19.31,
+    "magnetic_field": 407.77,
+    "light": 453.84,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 35.09,
+    "rotation": 5.1,
+    "magnetic_field": 116.97,
+    "light": 388.47,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 70.76,
+    "rotation": 3.39,
+    "magnetic_field": 315.75,
+    "light": 44.67,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 68.61,
+    "rotation": 2.01,
+    "magnetic_field": 166.83,
+    "light": 192.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 25.61,
+    "rotation": 9.72,
+    "magnetic_field": 115.71,
+    "light": 380.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 37.95,
+    "rotation": 9.02,
+    "magnetic_field": 180.87,
+    "light": 379.95,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 28.92,
+    "rotation": 7.28,
+    "magnetic_field": 69.66,
+    "light": 59.36,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 105.01,
+    "rotation": 13.97,
+    "magnetic_field": 462.77,
+    "light": 467.94,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.96,
+    "rotation": 7.04,
+    "magnetic_field": 291.9,
+    "light": 249.12,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 75.79,
+    "rotation": 9.23,
+    "magnetic_field": 95.34,
+    "light": 360.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 13.8,
+    "rotation": 7.32,
+    "magnetic_field": 35.32,
+    "light": 152.83,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 44.65,
+    "rotation": 7.05,
+    "magnetic_field": 339.93,
+    "light": 233.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.88,
+    "rotation": 2.33,
+    "magnetic_field": 64.23,
+    "light": 23.53,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.48,
+    "rotation": 3.94,
+    "magnetic_field": 396.56,
+    "light": 33.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 58.23,
+    "rotation": 0.84,
+    "magnetic_field": 250.59,
+    "light": 391.26,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 106.0,
+    "rotation": 12.47,
+    "magnetic_field": 564.99,
+    "light": 410.91,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 15.92,
+    "rotation": 0.38,
+    "magnetic_field": 286.88,
+    "light": 23.24,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 33.7,
+    "rotation": 6.19,
+    "magnetic_field": 218.43,
+    "light": 155.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 78.39,
+    "rotation": 5.59,
+    "magnetic_field": 301.71,
+    "light": 343.07,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 74.22,
+    "rotation": 8.72,
+    "magnetic_field": 216.75,
+    "light": 152.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 133.48,
+    "rotation": 11.95,
+    "magnetic_field": 538.99,
+    "light": 551.86,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 23.85,
+    "rotation": 9.18,
+    "magnetic_field": 254.51,
+    "light": 125.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.9,
+    "rotation": 4.09,
+    "magnetic_field": 144.53,
+    "light": 166.82,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 139.82,
+    "rotation": 19.11,
+    "magnetic_field": 562.88,
+    "light": 570.72,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 70.82,
+    "rotation": 7.84,
+    "magnetic_field": 318.74,
+    "light": 15.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 50.48,
+    "rotation": 2.5,
+    "magnetic_field": 315.36,
+    "light": 210.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 16.46,
+    "rotation": 0.21,
+    "magnetic_field": 237.28,
+    "light": 96.06,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 37.88,
+    "rotation": 1.07,
+    "magnetic_field": 294.0,
+    "light": 103.57,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 21.28,
+    "rotation": 4.57,
+    "magnetic_field": 232.5,
+    "light": 329.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 17.93,
+    "rotation": 8.3,
+    "magnetic_field": 126.03,
+    "light": 14.2,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 80.52,
+    "rotation": 19.03,
+    "magnetic_field": 418.41,
+    "light": 502.83,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 72.94,
+    "rotation": 5.36,
+    "magnetic_field": 206.83,
+    "light": 291.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 72.53,
+    "rotation": 3.23,
+    "magnetic_field": 48.82,
+    "light": 200.74,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 44.22,
+    "rotation": 0.1,
+    "magnetic_field": 245.13,
+    "light": 303.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 0.77,
+    "rotation": 1.64,
+    "magnetic_field": 330.56,
+    "light": 228.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 136.31,
+    "rotation": 18.22,
+    "magnetic_field": 564.3,
+    "light": 430.09,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 33.94,
+    "rotation": 8.04,
+    "magnetic_field": 392.88,
+    "light": 10.59,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.24,
+    "rotation": 4.65,
+    "magnetic_field": 273.63,
+    "light": 234.86,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.08,
+    "rotation": 4.83,
+    "magnetic_field": 124.87,
+    "light": 200.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 14.24,
+    "rotation": 1.54,
+    "magnetic_field": 298.06,
+    "light": 114.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 93.16,
+    "rotation": 19.76,
+    "magnetic_field": 413.6,
+    "light": 409.98,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 37.28,
+    "rotation": 9.04,
+    "magnetic_field": 96.45,
+    "light": 114.11,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 113.46,
+    "rotation": 14.01,
+    "magnetic_field": 520.47,
+    "light": 442.38,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 30.45,
+    "rotation": 5.92,
+    "magnetic_field": 295.02,
+    "light": 361.56,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 124.83,
+    "rotation": 12.43,
+    "magnetic_field": 415.62,
+    "light": 419.76,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 69.01,
+    "rotation": 0.66,
+    "magnetic_field": 69.12,
+    "light": 201.73,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 39.46,
+    "rotation": 2.97,
+    "magnetic_field": 114.16,
+    "light": 379.67,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 113.32,
+    "rotation": 17.13,
+    "magnetic_field": 574.67,
+    "light": 521.01,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 29.01,
+    "rotation": 3.44,
+    "magnetic_field": 324.7,
+    "light": 254.38,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 22.74,
+    "rotation": 8.59,
+    "magnetic_field": 82.25,
+    "light": 200.84,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 15.41,
+    "rotation": 5.43,
+    "magnetic_field": 80.13,
+    "light": 120.05,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 17.93,
+    "rotation": 3.52,
+    "magnetic_field": 343.95,
+    "light": 197.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 45.75,
+    "rotation": 6.12,
+    "magnetic_field": 136.5,
+    "light": 45.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 8.46,
+    "rotation": 0.98,
+    "magnetic_field": 282.98,
+    "light": 30.88,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 13.81,
+    "rotation": 7.48,
+    "magnetic_field": 112.27,
+    "light": 223.07,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 34.5,
+    "rotation": 1.98,
+    "magnetic_field": 323.47,
+    "light": 331.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 57.25,
+    "rotation": 1.41,
+    "magnetic_field": 306.28,
+    "light": 100.49,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.49,
+    "rotation": 3.17,
+    "magnetic_field": 282.63,
+    "light": 152.65,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 48.52,
+    "rotation": 6.26,
+    "magnetic_field": 250.54,
+    "light": 70.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 93.23,
+    "rotation": 12.78,
+    "magnetic_field": 539.51,
+    "light": 538.39,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 63.82,
+    "rotation": 5.58,
+    "magnetic_field": 365.78,
+    "light": 9.32,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 33.07,
+    "rotation": 5.66,
+    "magnetic_field": 91.35,
+    "light": 152.4,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 59.26,
+    "rotation": 7.13,
+    "magnetic_field": 89.22,
+    "light": 126.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 70.64,
+    "rotation": 1.42,
+    "magnetic_field": 89.43,
+    "light": 9.54,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 0.77,
+    "rotation": 9.43,
+    "magnetic_field": 286.91,
+    "light": 214.11,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 6.01,
+    "rotation": 5.27,
+    "magnetic_field": 387.12,
+    "light": 322.53,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 118.83,
+    "rotation": 17.87,
+    "magnetic_field": 558.99,
+    "light": 409.06,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 7.74,
+    "rotation": 3.17,
+    "magnetic_field": 383.86,
+    "light": 279.16,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.11,
+    "rotation": 6.47,
+    "magnetic_field": 289.19,
+    "light": 347.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 8.46,
+    "rotation": 5.19,
+    "magnetic_field": 56.26,
+    "light": 289.03,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 49.6,
+    "rotation": 1.92,
+    "magnetic_field": 102.78,
+    "light": 160.44,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 10.38,
+    "rotation": 1.74,
+    "magnetic_field": 326.21,
+    "light": 138.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 100.82,
+    "rotation": 12.15,
+    "magnetic_field": 589.56,
+    "light": 404.29,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 7.06,
+    "rotation": 0.29,
+    "magnetic_field": 391.71,
+    "light": 223.01,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 6.64,
+    "rotation": 5.44,
+    "magnetic_field": 312.45,
+    "light": 286.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.55,
+    "rotation": 2.46,
+    "magnetic_field": 130.04,
+    "light": 334.36,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 95.1,
+    "rotation": 14.2,
+    "magnetic_field": 474.18,
+    "light": 598.32,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 43.52,
+    "rotation": 1.63,
+    "magnetic_field": 194.98,
+    "light": 379.6,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 12.47,
+    "rotation": 6.74,
+    "magnetic_field": 68.63,
+    "light": 151.7,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 17.47,
+    "rotation": 0.95,
+    "magnetic_field": 106.52,
+    "light": 6.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 85.74,
+    "rotation": 10.78,
+    "magnetic_field": 540.25,
+    "light": 480.81,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 67.14,
+    "rotation": 1.73,
+    "magnetic_field": 93.89,
+    "light": 130.02,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 68.39,
+    "rotation": 9.19,
+    "magnetic_field": 273.32,
+    "light": 154.71,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 110.42,
+    "rotation": 10.66,
+    "magnetic_field": 482.46,
+    "light": 550.19,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 3.46,
+    "rotation": 6.26,
+    "magnetic_field": 79.49,
+    "light": 38.12,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 41.38,
+    "rotation": 1.01,
+    "magnetic_field": 396.77,
+    "light": 276.13,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 0.65,
+    "rotation": 1.27,
+    "magnetic_field": 32.04,
+    "light": 387.43,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.39,
+    "rotation": 4.54,
+    "magnetic_field": 375.94,
+    "light": 88.64,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 122.73,
+    "rotation": 16.94,
+    "magnetic_field": 535.79,
+    "light": 556.43,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 25.13,
+    "rotation": 7.45,
+    "magnetic_field": 303.21,
+    "light": 110.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 117.56,
+    "rotation": 12.82,
+    "magnetic_field": 559.26,
+    "light": 528.64,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 65.17,
+    "rotation": 8.2,
+    "magnetic_field": 207.41,
+    "light": 18.92,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 31.79,
+    "rotation": 9.77,
+    "magnetic_field": 380.3,
+    "light": 126.19,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 98.84,
+    "rotation": 13.95,
+    "magnetic_field": 561.98,
+    "light": 427.97,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 77.71,
+    "rotation": 0.41,
+    "magnetic_field": 61.78,
+    "light": 371.31,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 77.1,
+    "rotation": 2.36,
+    "magnetic_field": 315.62,
+    "light": 317.61,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 106.7,
+    "rotation": 13.61,
+    "magnetic_field": 580.95,
+    "light": 487.47,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 122.45,
+    "rotation": 17.25,
+    "magnetic_field": 515.26,
+    "light": 546.31,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 40.35,
+    "rotation": 8.48,
+    "magnetic_field": 32.03,
+    "light": 263.0,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 56.33,
+    "rotation": 3.63,
+    "magnetic_field": 337.38,
+    "light": 373.75,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 53.84,
+    "rotation": 2.68,
+    "magnetic_field": 126.41,
+    "light": 280.99,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 143.66,
+    "rotation": 15.62,
+    "magnetic_field": 518.04,
+    "light": 473.29,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 30.98,
+    "rotation": 0.0,
+    "magnetic_field": 227.64,
+    "light": 114.98,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 11.91,
+    "rotation": 1.25,
+    "magnetic_field": 339.16,
+    "light": 17.68,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 42.62,
+    "rotation": 6.29,
+    "magnetic_field": 167.86,
+    "light": 386.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 46.79,
+    "rotation": 7.35,
+    "magnetic_field": 362.87,
+    "light": 369.52,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 119.56,
+    "rotation": 11.34,
+    "magnetic_field": 547.9,
+    "light": 585.49,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 32.12,
+    "rotation": 9.95,
+    "magnetic_field": 209.03,
+    "light": 17.58,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 130.14,
+    "rotation": 12.06,
+    "magnetic_field": 577.06,
+    "light": 516.92,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 60.68,
+    "rotation": 0.3,
+    "magnetic_field": 270.15,
+    "light": 157.87,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.17,
+    "rotation": 5.55,
+    "magnetic_field": 36.55,
+    "light": 361.07,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 53.45,
+    "rotation": 6.05,
+    "magnetic_field": 307.81,
+    "light": 54.69,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 70.73,
+    "rotation": 9.68,
+    "magnetic_field": 47.22,
+    "light": 14.62,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.8,
+    "rotation": 7.97,
+    "magnetic_field": 120.78,
+    "light": 26.33,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 2.3,
+    "rotation": 6.28,
+    "magnetic_field": 46.8,
+    "light": 12.63,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 97.14,
+    "rotation": 16.67,
+    "magnetic_field": 432.97,
+    "light": 493.56,
+    "sos_triggered": 1
+  },
+  {
+    "acceleration": 8.13,
+    "rotation": 6.56,
+    "magnetic_field": 91.3,
+    "light": 235.47,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 63.6,
+    "rotation": 4.57,
+    "magnetic_field": 355.42,
+    "light": 227.86,
+    "sos_triggered": 0
+  },
+  {
+    "acceleration": 146.04,
+    "rotation": 11.74,
+    "magnetic_field": 592.22,
+    "light": 415.32,
+    "sos_triggered": 1
+  }
+]
