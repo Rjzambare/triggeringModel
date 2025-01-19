@@ -11,9 +11,20 @@ model = joblib.load('model.pkl')
 @app.route('/predict', methods=['POST'])
 def predict():
     data = request.get_json(force=True)
-    # Assuming the input is a list of features in 'data'
-    features = np.array(data['features']).reshape(1, -1)
+
+    # Extract the values from the incoming JSON data
+    acceleration = data.get('acceleration')
+    rotation = data.get('rotation')
+    magnetic_field = data.get('magnetic_field')
+    light = data.get('light')
+
+    # Convert the extracted values into a numpy array (ensure they are floats or ints)
+    features = np.array([acceleration, rotation, magnetic_field, light]).reshape(1, -1)
+
+    # Make prediction using the model
     prediction = model.predict(features)
+
+    # Return the prediction as JSON
     return jsonify({'prediction': prediction.tolist()})
 
 if __name__ == '__main__':
